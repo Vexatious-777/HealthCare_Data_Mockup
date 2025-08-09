@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Primary Care Performance Analysis
 
 This is a compact, mock healthcare analytics project designed to demonstrate foundational data analysis skills relevant to an ACO or MSO setting.
