@@ -1,11 +1,11 @@
-Provider_Name,Patients_Per_Provider,Quality_Compliance_%
-Dr. Patel,220,69.82758620689656
-Dr. Wilson,214,61.33333333333333
-Dr. Brown,204,55.00000000000001
-Dr. Martinez,197,57.14285714285714
-Dr. Lee,196,73.23943661971832
-Dr. Garcia,194,68.78048780487805
-Dr. Davis,182,57.89473684210527
-Dr. Nguyen,163,76.0233918128655
-Dr. Smith,159,55.172413793103445
-Dr. Johnson,155,54.37499999999999
+Provider_Name,UniquePatients,TotalVisits
+Dr. Patel,220,220
+Dr. Wilson,214,190
+Dr. Brown,204,205
+Dr. Martinez,197,160
+Dr. Lee,196,213
+Dr. Garcia,194,210
+Dr. Davis,182,171
+Dr. Nguyen,163,232
+Dr. Smith,159,174
+Dr. Johnson,155,225
