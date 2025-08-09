@@ -1,0 +1,2001 @@
+Provider_ID,Provider_Name,Patient_ID,Age,Gender,Visit_Date,Visit_Type,Diagnosis_Code,Quality_Metric
+P002,Dr. Lee,PT00052,63,Other,2024-06-07,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT01386,52,Other,2024-04-19,ER,I10,Met
+P001,Dr. Smith,PT00062,50,F,2024-01-08,Annual Checkup,G43.909,Not Met
+P009,Dr. Garcia,PT00408,50,Other,2024-08-29,Follow-Up,G43.909,Met
+P008,Dr. Davis,PT01207,83,M,2024-01-03,ER,E11.9,Not Met
+P003,Dr. Patel,PT01430,68,M,2025-02-24,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00210,46,F,2024-01-25,Annual Checkup,F41.9,Not Met
+P010,Dr. Wilson,PT00542,64,F,2024-01-25,Follow-Up,G43.909,Met
+P007,Dr. Brown,PT00162,59,Other,2024-03-08,Annual Checkup,Z00.00,Not Met
+P006,Dr. Martinez,PT01183,20,F,2024-02-11,Follow-Up,E11.9,Not Met
+P005,Dr. Nguyen,PT00164,36,F,2024-02-11,ER,N39.0,Met
+P006,Dr. Martinez,PT00334,60,M,2024-02-24,Annual Checkup,E78.5,Not Met
+P002,Dr. Lee,PT01248,81,Other,2024-01-27,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT00553,50,Other,2024-03-27,Follow-Up,M54.5,Not Met
+P001,Dr. Smith,PT00470,45,F,2024-04-22,ER,N39.0,Met
+P004,Dr. Johnson,PT01162,56,Other,2024-01-23,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT00293,44,M,2024-05-18,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT00878,49,Other,2024-03-10,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT01044,54,M,2024-01-05,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT01286,35,F,2024-10-15,Follow-Up,N39.0,Met
+P007,Dr. Brown,PT00782,69,Other,2024-02-14,Telehealth,G43.909,Met
+P009,Dr. Garcia,PT00024,33,Other,2024-03-29,Follow-Up,G43.909,Not Met
+P006,Dr. Martinez,PT00229,31,M,2025-02-23,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT01026,58,F,2024-06-28,Follow-Up,I10,Not Met
+P005,Dr. Nguyen,PT01309,68,Other,2024-01-12,Follow-Up,J45.909,Met
+P003,Dr. Patel,PT01105,58,Other,2024-01-27,ER,Z00.00,Met
+P001,Dr. Smith,PT00230,52,M,2024-02-29,ER,E78.5,Met
+P004,Dr. Johnson,PT01162,49,F,2024-02-07,Annual Checkup,K21.9,Not Met
+P009,Dr. Garcia,PT01569,46,F,2024-02-09,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00543,74,Other,2024-04-03,ER,N39.0,Not Met
+P009,Dr. Garcia,PT01547,60,Other,2024-01-10,Follow-Up,E78.5,Met
+P006,Dr. Martinez,PT00898,48,Other,2025-06-04,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00044,42,Other,2024-01-01,Follow-Up,Z00.00,Met
+P002,Dr. Lee,PT01450,66,Other,2024-07-21,Annual Checkup,I10,Not Met
+P006,Dr. Martinez,PT00146,73,Other,2024-06-26,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT01482,71,Other,2024-01-10,Follow-Up,M54.5,Not Met
+P007,Dr. Brown,PT00390,39,F,2024-08-26,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00957,49,Other,2024-04-27,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00224,46,F,2024-02-14,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00376,51,M,2024-02-17,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00201,69,F,2024-09-18,Follow-Up,G43.909,Not Met
+P002,Dr. Lee,PT01544,79,F,2024-03-17,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00121,61,F,2024-06-20,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00585,43,M,2024-04-08,Follow-Up,G43.909,Not Met
+P008,Dr. Davis,PT00318,54,F,2024-03-29,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT00125,83,Other,2024-03-07,Annual Checkup,E11.9,Met
+P009,Dr. Garcia,PT01088,56,F,2024-02-15,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00141,49,Other,2024-03-26,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00505,51,Other,2024-03-04,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT01158,61,Other,2024-06-18,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00489,40,M,2024-11-14,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT00020,45,M,2024-07-17,Follow-Up,Z00.00,Not Met
+P002,Dr. Lee,PT01102,71,F,2024-07-14,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00501,60,M,2024-01-25,Annual Checkup,K21.9,Not Met
+P005,Dr. Nguyen,PT01253,56,Other,2024-07-16,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT00276,72,M,2024-09-28,Annual Checkup,I10,Not Met
+P003,Dr. Patel,PT00558,42,M,2024-02-01,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT01036,49,M,2024-03-07,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT00567,60,F,2024-01-01,Annual Checkup,J45.909,Not Met
+P005,Dr. Nguyen,PT00331,59,Other,2024-03-26,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT00155,29,Other,2024-01-16,ER,G43.909,Met
+P006,Dr. Martinez,PT01193,47,Other,2024-02-19,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00082,52,M,2024-03-28,Annual Checkup,M54.5,Not Met
+P006,Dr. Martinez,PT01598,62,Other,2024-05-25,ER,N39.0,Not Met
+P003,Dr. Patel,PT00485,59,F,2025-01-28,Telehealth,J45.909,Not Met
+P001,Dr. Smith,PT00368,53,Other,2024-02-04,ER,N39.0,Not Met
+P004,Dr. Johnson,PT00547,20,F,2024-02-10,Follow-Up,I10,Met
+P001,Dr. Smith,PT00964,54,F,2024-01-05,Annual Checkup,K21.9,Met
+P004,Dr. Johnson,PT00457,56,F,2024-01-07,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT01584,95,M,2024-02-09,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00679,51,F,2024-01-19,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT00079,60,F,2024-03-21,Follow-Up,F41.9,Not Met
+P006,Dr. Martinez,PT00894,75,Other,2024-02-02,Telehealth,I10,Met
+P010,Dr. Wilson,PT00390,68,M,2024-06-05,Annual Checkup,N39.0,Met
+P009,Dr. Garcia,PT01407,80,Other,2024-04-30,ER,M54.5,Met
+P002,Dr. Lee,PT01361,29,M,2024-04-02,Follow-Up,I10,Not Met
+P005,Dr. Nguyen,PT01039,37,M,2024-01-05,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT01136,44,F,2024-04-17,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01261,27,Other,2024-05-04,Annual Checkup,G43.909,Not Met
+P005,Dr. Nguyen,PT00588,56,F,2024-01-23,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00953,38,M,2024-11-27,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT01350,82,F,2024-01-18,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT01378,40,M,2024-11-06,Annual Checkup,M54.5,Met
+P001,Dr. Smith,PT00502,49,M,2024-09-08,Follow-Up,I10,Met
+P010,Dr. Wilson,PT00399,69,Other,2024-07-22,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT01344,32,Other,2024-04-07,Annual Checkup,I10,Not Met
+P004,Dr. Johnson,PT00361,26,Other,2024-01-12,Follow-Up,E11.9,Not Met
+P002,Dr. Lee,PT00935,58,F,2024-09-30,ER,G43.909,Not Met
+P010,Dr. Wilson,PT00650,59,M,2024-02-19,Follow-Up,G43.909,Met
+P009,Dr. Garcia,PT00914,69,F,2024-02-21,Follow-Up,K21.9,Met
+P004,Dr. Johnson,PT01306,64,M,2024-09-18,Follow-Up,G43.909,Met
+P004,Dr. Johnson,PT00563,60,M,2024-06-30,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00655,42,Other,2024-01-22,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT01447,59,F,2024-10-01,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00852,60,F,2024-01-01,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT01425,42,F,2024-01-22,ER,Z00.00,Met
+P001,Dr. Smith,PT00721,88,M,2024-05-06,Follow-Up,N39.0,Met
+P009,Dr. Garcia,PT01236,63,F,2024-01-31,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT00797,37,M,2024-02-17,Follow-Up,N39.0,Not Met
+P008,Dr. Davis,PT00262,69,Other,2024-06-13,Follow-Up,N39.0,Not Met
+P001,Dr. Smith,PT00172,72,Other,2024-05-08,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00777,62,M,2024-04-10,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT00570,50,M,2024-02-06,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00107,41,M,2024-02-03,Annual Checkup,I10,Not Met
+P001,Dr. Smith,PT01545,53,F,2024-09-24,ER,M54.5,Not Met
+P010,Dr. Wilson,PT00313,61,F,2024-04-29,Annual Checkup,I10,Not Met
+P004,Dr. Johnson,PT00953,55,Other,2024-04-13,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT01532,81,Other,2024-03-22,Annual Checkup,J45.909,Not Met
+P002,Dr. Lee,PT01186,66,F,2024-02-09,ER,Z00.00,Met
+P007,Dr. Brown,PT00813,39,Other,2024-01-03,Annual Checkup,Z00.00,Not Met
+P004,Dr. Johnson,PT00209,35,Other,2024-12-04,Follow-Up,Z00.00,Not Met
+P010,Dr. Wilson,PT00085,63,M,2025-01-04,Follow-Up,F41.9,Met
+P006,Dr. Martinez,PT00026,50,M,2024-01-02,ER,I10,Met
+P006,Dr. Martinez,PT01302,67,M,2024-11-12,Follow-Up,N39.0,Met
+P009,Dr. Garcia,PT01333,63,M,2025-02-01,Follow-Up,G43.909,Not Met
+P008,Dr. Davis,PT00893,53,Other,2024-08-18,Follow-Up,F41.9,Not Met
+P002,Dr. Lee,PT00572,39,M,2024-08-16,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00689,27,F,2024-02-15,Annual Checkup,F41.9,Met
+P004,Dr. Johnson,PT00727,58,M,2024-11-26,Annual Checkup,Z00.00,Not Met
+P005,Dr. Nguyen,PT01139,32,F,2024-05-22,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT01001,39,Other,2024-04-24,Follow-Up,K21.9,Not Met
+P008,Dr. Davis,PT00918,57,F,2025-07-07,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00628,56,Other,2024-09-08,Follow-Up,K21.9,Not Met
+P006,Dr. Martinez,PT00872,34,Other,2024-06-11,Follow-Up,F41.9,Not Met
+P005,Dr. Nguyen,PT00628,74,M,2024-02-23,Annual Checkup,M54.5,Met
+P009,Dr. Garcia,PT01561,73,Other,2024-02-11,Annual Checkup,M54.5,Not Met
+P005,Dr. Nguyen,PT01484,64,Other,2024-08-30,Telehealth,G43.909,Met
+P002,Dr. Lee,PT00398,64,M,2024-10-20,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT00260,64,M,2024-07-11,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT01307,95,M,2024-05-05,Annual Checkup,E11.9,Met
+P008,Dr. Davis,PT00981,72,M,2024-09-21,Annual Checkup,E11.9,Met
+P008,Dr. Davis,PT00234,66,F,2024-02-19,Annual Checkup,I10,Not Met
+P001,Dr. Smith,PT00311,41,F,2024-04-13,ER,E78.5,Met
+P004,Dr. Johnson,PT00243,50,Other,2024-01-05,Follow-Up,Z00.00,Not Met
+P010,Dr. Wilson,PT00463,95,Other,2024-02-10,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT00879,21,M,2024-04-17,Follow-Up,E11.9,Not Met
+P002,Dr. Lee,PT01563,46,F,2024-01-17,Follow-Up,E78.5,Met
+P003,Dr. Patel,PT00492,74,F,2024-03-29,Follow-Up,J45.909,Met
+P008,Dr. Davis,PT01412,42,Other,2024-04-27,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01440,67,M,2024-01-11,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT01355,55,F,2024-04-03,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00545,43,F,2024-05-01,Annual Checkup,J45.909,Not Met
+P010,Dr. Wilson,PT01534,18,Other,2024-07-09,ER,K21.9,Met
+P005,Dr. Nguyen,PT01434,58,M,2024-02-07,ER,G43.909,Met
+P008,Dr. Davis,PT00165,40,Other,2024-01-04,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00513,52,F,2025-01-29,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT01567,64,Other,2024-03-04,ER,Z00.00,Met
+P003,Dr. Patel,PT00964,70,Other,2024-01-23,Follow-Up,E78.5,Met
+P010,Dr. Wilson,PT00893,46,Other,2024-04-05,ER,I10,Met
+P007,Dr. Brown,PT00683,43,M,2024-05-30,Follow-Up,J45.909,Met
+P008,Dr. Davis,PT00591,32,Other,2025-01-06,ER,G43.909,Met
+P002,Dr. Lee,PT00645,71,M,2024-06-09,Annual Checkup,N39.0,Not Met
+P001,Dr. Smith,PT01347,93,Other,2024-03-06,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT01276,73,M,2024-02-04,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT00269,77,M,2024-01-02,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT00491,42,Other,2024-01-15,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00191,62,F,2024-03-18,Telehealth,I10,Met
+P002,Dr. Lee,PT01327,68,F,2024-01-13,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT00851,0,M,2024-01-23,Telehealth,M54.5,Met
+P003,Dr. Patel,PT00786,36,F,2024-03-09,ER,G43.909,Not Met
+P003,Dr. Patel,PT00143,84,M,2024-04-30,Follow-Up,N39.0,Met
+P009,Dr. Garcia,PT00548,29,F,2024-01-06,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT01352,80,M,2024-03-24,ER,K21.9,Met
+P006,Dr. Martinez,PT00681,29,Other,2024-08-20,Follow-Up,N39.0,Met
+P006,Dr. Martinez,PT00387,37,Other,2024-01-09,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00090,63,M,2024-05-03,Follow-Up,N39.0,Met
+P003,Dr. Patel,PT01015,56,F,2024-12-04,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00902,48,F,2024-04-12,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT00840,83,Other,2024-03-14,Telehealth,I10,Met
+P005,Dr. Nguyen,PT00694,32,Other,2024-04-04,Follow-Up,I10,Not Met
+P009,Dr. Garcia,PT00779,52,M,2025-01-24,Follow-Up,K21.9,Not Met
+P001,Dr. Smith,PT01265,65,F,2024-10-09,Annual Checkup,E78.5,Not Met
+P002,Dr. Lee,PT00889,60,F,2024-01-09,Follow-Up,I10,Met
+P005,Dr. Nguyen,PT00060,43,F,2024-02-16,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00883,44,F,2024-01-16,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00349,70,F,2024-05-23,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT01020,71,Other,2024-06-08,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT00523,60,Other,2024-07-14,Annual Checkup,K21.9,Not Met
+P009,Dr. Garcia,PT00324,40,F,2024-06-15,Annual Checkup,F41.9,Not Met
+P005,Dr. Nguyen,PT01309,44,M,2024-07-16,Follow-Up,K21.9,Not Met
+P004,Dr. Johnson,PT00788,54,M,2024-02-25,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00606,57,Other,2024-06-28,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT01405,64,Other,2024-08-22,Telehealth,Z00.00,Not Met
+P005,Dr. Nguyen,PT01589,51,F,2024-03-08,Follow-Up,F41.9,Met
+P004,Dr. Johnson,PT01272,69,M,2024-01-14,Follow-Up,J45.909,Not Met
+P001,Dr. Smith,PT00633,69,M,2024-10-06,Annual Checkup,F41.9,Not Met
+P002,Dr. Lee,PT00605,78,M,2024-02-16,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT00750,55,Other,2024-09-28,Follow-Up,E78.5,Not Met
+P005,Dr. Nguyen,PT00987,60,M,2024-12-26,Follow-Up,F41.9,Not Met
+P008,Dr. Davis,PT00155,52,F,2024-04-12,Follow-Up,M54.5,Not Met
+P007,Dr. Brown,PT01142,40,M,2024-02-11,Annual Checkup,N39.0,Met
+P009,Dr. Garcia,PT00254,92,M,2024-02-17,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00222,75,Other,2024-07-07,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT00672,69,Other,2024-07-06,Annual Checkup,I10,Met
+P008,Dr. Davis,PT01436,54,M,2024-01-08,Follow-Up,I10,Met
+P001,Dr. Smith,PT00624,38,M,2024-04-05,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT00796,72,M,2024-02-21,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00850,52,Other,2024-01-15,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00068,62,Other,2024-04-25,Annual Checkup,K21.9,Met
+P004,Dr. Johnson,PT00743,44,F,2024-01-13,Telehealth,F41.9,Met
+P006,Dr. Martinez,PT00125,59,M,2024-01-10,Annual Checkup,I10,Not Met
+P008,Dr. Davis,PT00188,45,Other,2024-07-26,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT00684,46,F,2024-01-11,Telehealth,Z00.00,Met
+P009,Dr. Garcia,PT00425,59,Other,2025-06-01,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT01221,28,F,2024-07-20,Annual Checkup,J45.909,Not Met
+P009,Dr. Garcia,PT00514,29,F,2024-12-19,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00488,42,Other,2024-06-29,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT01520,51,M,2024-04-08,Follow-Up,I10,Met
+P006,Dr. Martinez,PT01052,70,Other,2024-01-15,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT00089,52,Other,2024-03-22,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT00125,54,M,2024-01-07,ER,N39.0,Not Met
+P008,Dr. Davis,PT01459,49,M,2024-01-16,Annual Checkup,I10,Met
+P003,Dr. Patel,PT00135,60,F,2024-06-13,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00781,40,Other,2024-04-15,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT00204,53,Other,2024-02-10,Annual Checkup,G43.909,Not Met
+P004,Dr. Johnson,PT00881,62,M,2024-08-31,ER,N39.0,Met
+P008,Dr. Davis,PT00817,59,M,2024-01-10,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT00767,55,F,2024-04-06,Follow-Up,K21.9,Met
+P002,Dr. Lee,PT00191,55,M,2024-04-29,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT00123,63,Other,2024-05-22,Telehealth,G43.909,Met
+P002,Dr. Lee,PT00842,93,M,2024-04-15,ER,N39.0,Not Met
+P001,Dr. Smith,PT00590,41,Other,2024-10-04,Annual Checkup,I10,Not Met
+P004,Dr. Johnson,PT00317,94,Other,2024-02-08,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00753,40,F,2024-01-26,Follow-Up,Z00.00,Met
+P007,Dr. Brown,PT01149,16,Other,2024-04-15,Follow-Up,G43.909,Met
+P005,Dr. Nguyen,PT00060,45,F,2024-01-10,Annual Checkup,E78.5,Not Met
+P006,Dr. Martinez,PT00013,61,F,2024-02-14,ER,Z00.00,Not Met
+P002,Dr. Lee,PT00291,88,Other,2024-07-20,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT00441,38,M,2024-10-17,Annual Checkup,F41.9,Met
+P005,Dr. Nguyen,PT01478,63,M,2024-07-26,Follow-Up,Z00.00,Met
+P001,Dr. Smith,PT00319,31,F,2024-11-19,Follow-Up,E11.9,Not Met
+P005,Dr. Nguyen,PT00908,87,Other,2024-08-29,Annual Checkup,Z00.00,Met
+P005,Dr. Nguyen,PT00442,76,Other,2025-06-07,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00997,46,Other,2024-01-20,Follow-Up,E11.9,Met
+P010,Dr. Wilson,PT00113,24,F,2025-02-24,Annual Checkup,M54.5,Not Met
+P005,Dr. Nguyen,PT00593,79,M,2024-08-09,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00265,52,M,2024-03-05,Follow-Up,M54.5,Met
+P006,Dr. Martinez,PT00148,77,M,2024-02-08,ER,E11.9,Met
+P008,Dr. Davis,PT00160,55,M,2024-06-24,Follow-Up,Z00.00,Met
+P007,Dr. Brown,PT00593,55,F,2024-12-13,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT00943,46,Other,2024-03-12,ER,I10,Met
+P002,Dr. Lee,PT00499,66,M,2024-01-17,Follow-Up,G43.909,Met
+P005,Dr. Nguyen,PT01528,57,M,2024-02-01,Annual Checkup,J45.909,Met
+P002,Dr. Lee,PT01087,64,Other,2024-05-13,Annual Checkup,F41.9,Met
+P003,Dr. Patel,PT00484,27,F,2024-01-15,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT01557,77,Other,2024-05-13,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT01557,82,Other,2024-03-29,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT00662,57,Other,2024-08-17,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT01294,92,M,2024-09-08,Follow-Up,Z00.00,Met
+P009,Dr. Garcia,PT00152,86,M,2024-03-02,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT00158,66,Other,2024-05-26,ER,I10,Met
+P009,Dr. Garcia,PT00788,79,M,2024-01-29,Follow-Up,E11.9,Met
+P010,Dr. Wilson,PT01335,74,F,2024-02-29,Annual Checkup,K21.9,Met
+P001,Dr. Smith,PT00923,23,F,2024-03-10,ER,F41.9,Not Met
+P002,Dr. Lee,PT01034,50,Other,2024-03-27,Annual Checkup,M54.5,Not Met
+P008,Dr. Davis,PT01074,67,Other,2024-07-02,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT00794,84,M,2024-08-25,Follow-Up,Z00.00,Met
+P006,Dr. Martinez,PT00135,30,M,2024-12-24,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00308,24,M,2024-03-14,Annual Checkup,J45.909,Not Met
+P005,Dr. Nguyen,PT01344,54,Other,2025-04-14,Follow-Up,J45.909,Met
+P002,Dr. Lee,PT00635,17,Other,2024-04-30,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT00192,53,Other,2024-02-02,Follow-Up,G43.909,Met
+P006,Dr. Martinez,PT00633,61,F,2024-01-25,Telehealth,F41.9,Not Met
+P008,Dr. Davis,PT00394,38,F,2024-02-20,Telehealth,J45.909,Met
+P002,Dr. Lee,PT01040,53,Other,2024-05-12,ER,G43.909,Met
+P006,Dr. Martinez,PT01570,72,Other,2024-01-23,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01419,45,Other,2024-01-24,ER,J45.909,Not Met
+P001,Dr. Smith,PT00842,40,M,2024-01-12,Follow-Up,M54.5,Not Met
+P010,Dr. Wilson,PT00584,53,Other,2024-01-28,Follow-Up,M54.5,Met
+P005,Dr. Nguyen,PT00961,36,F,2024-02-24,Annual Checkup,Z00.00,Not Met
+P008,Dr. Davis,PT01576,90,M,2024-01-05,Follow-Up,G43.909,Met
+P003,Dr. Patel,PT00409,55,Other,2024-07-11,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT00761,42,Other,2024-09-05,ER,G43.909,Not Met
+P005,Dr. Nguyen,PT00172,58,F,2024-10-31,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00188,52,F,2024-07-15,ER,F41.9,Not Met
+P007,Dr. Brown,PT00110,51,M,2024-06-14,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00768,45,F,2024-02-25,Annual Checkup,I10,Not Met
+P006,Dr. Martinez,PT00300,44,F,2024-03-20,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT01555,27,Other,2024-03-15,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00039,79,M,2024-06-14,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT01081,65,M,2024-03-27,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT00098,60,F,2024-04-01,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT01024,52,Other,2024-04-01,Follow-Up,G43.909,Met
+P003,Dr. Patel,PT00597,37,M,2024-02-03,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT00384,41,Other,2024-01-03,Follow-Up,G43.909,Not Met
+P002,Dr. Lee,PT01078,29,Other,2024-02-16,Follow-Up,G43.909,Met
+P007,Dr. Brown,PT00963,43,F,2024-01-16,Follow-Up,F41.9,Met
+P001,Dr. Smith,PT00732,35,F,2024-09-22,Annual Checkup,I10,Not Met
+P006,Dr. Martinez,PT00274,85,F,2024-07-05,Annual Checkup,F41.9,Not Met
+P003,Dr. Patel,PT01596,70,Other,2024-03-23,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00130,56,Other,2024-04-16,Follow-Up,K21.9,Met
+P004,Dr. Johnson,PT00090,39,F,2024-06-13,ER,F41.9,Not Met
+P009,Dr. Garcia,PT00816,36,Other,2024-02-10,Annual Checkup,E11.9,Not Met
+P004,Dr. Johnson,PT00586,51,M,2024-02-24,ER,E11.9,Not Met
+P006,Dr. Martinez,PT00560,71,F,2024-02-22,Follow-Up,N39.0,Not Met
+P008,Dr. Davis,PT00792,89,M,2025-05-31,Telehealth,K21.9,Not Met
+P006,Dr. Martinez,PT01064,29,M,2024-01-13,ER,N39.0,Met
+P010,Dr. Wilson,PT00370,65,Other,2024-01-20,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT00628,43,M,2024-01-25,Follow-Up,N39.0,Met
+P008,Dr. Davis,PT00720,46,M,2024-02-10,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00563,55,Other,2024-03-04,Telehealth,E11.9,Met
+P007,Dr. Brown,PT00745,40,Other,2025-04-29,ER,J45.909,Not Met
+P003,Dr. Patel,PT01245,50,Other,2025-02-22,Follow-Up,E11.9,Met
+P004,Dr. Johnson,PT01595,38,Other,2024-08-28,Annual Checkup,N39.0,Not Met
+P001,Dr. Smith,PT01240,44,F,2024-01-23,Follow-Up,F41.9,Met
+P002,Dr. Lee,PT01176,68,F,2024-05-12,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT00512,56,F,2024-04-11,Annual Checkup,J45.909,Met
+P007,Dr. Brown,PT01151,68,F,2024-02-09,Annual Checkup,E78.5,Not Met
+P004,Dr. Johnson,PT01254,43,M,2024-02-16,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT00152,65,M,2024-03-07,Annual Checkup,K21.9,Not Met
+P006,Dr. Martinez,PT01368,25,M,2024-01-15,Follow-Up,G43.909,Met
+P005,Dr. Nguyen,PT00323,55,Other,2024-04-23,Follow-Up,J45.909,Not Met
+P009,Dr. Garcia,PT00460,66,F,2024-01-21,Telehealth,J45.909,Met
+P008,Dr. Davis,PT00054,25,M,2024-03-19,Follow-Up,F41.9,Met
+P009,Dr. Garcia,PT00266,43,Other,2024-02-19,ER,I10,Met
+P008,Dr. Davis,PT01077,55,M,2024-01-18,Follow-Up,Z00.00,Met
+P006,Dr. Martinez,PT01316,73,F,2024-02-05,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT01311,44,Other,2024-05-17,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT00255,64,Other,2024-03-17,Annual Checkup,J45.909,Met
+P004,Dr. Johnson,PT00709,80,Other,2024-03-04,ER,I10,Met
+P009,Dr. Garcia,PT00563,65,F,2024-08-01,Follow-Up,Z00.00,Met
+P009,Dr. Garcia,PT01313,51,F,2025-02-06,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT01476,61,Other,2024-11-30,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT00167,44,F,2024-01-24,ER,Z00.00,Met
+P004,Dr. Johnson,PT01571,56,Other,2024-04-12,Annual Checkup,E11.9,Met
+P009,Dr. Garcia,PT00594,52,Other,2024-08-09,Telehealth,K21.9,Met
+P007,Dr. Brown,PT00610,61,M,2024-01-28,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT00992,47,M,2024-01-22,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT01504,62,M,2024-05-11,Telehealth,J45.909,Not Met
+P009,Dr. Garcia,PT01151,47,F,2024-03-29,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT00508,70,F,2024-02-29,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT00857,49,F,2024-07-22,Telehealth,J45.909,Not Met
+P010,Dr. Wilson,PT01477,18,M,2024-03-15,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT00957,36,M,2024-02-13,ER,K21.9,Met
+P007,Dr. Brown,PT01036,55,M,2024-02-01,Telehealth,M54.5,Not Met
+P001,Dr. Smith,PT00104,85,M,2024-10-02,Annual Checkup,K21.9,Met
+P001,Dr. Smith,PT00221,69,M,2024-10-11,Annual Checkup,E78.5,Not Met
+P007,Dr. Brown,PT00750,15,F,2024-04-27,Annual Checkup,Z00.00,Not Met
+P006,Dr. Martinez,PT01134,28,M,2024-01-18,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00573,75,Other,2024-07-08,Follow-Up,I10,Met
+P002,Dr. Lee,PT00807,66,M,2024-09-26,Follow-Up,F41.9,Met
+P006,Dr. Martinez,PT01547,95,F,2024-07-05,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00093,46,F,2024-02-04,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT00936,39,F,2024-06-12,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00653,56,F,2024-06-21,Annual Checkup,Z00.00,Not Met
+P005,Dr. Nguyen,PT01216,46,M,2024-09-08,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00614,73,M,2024-01-15,ER,F41.9,Met
+P002,Dr. Lee,PT00854,45,Other,2024-08-12,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01343,50,Other,2024-07-10,Follow-Up,E11.9,Met
+P003,Dr. Patel,PT01074,37,Other,2024-01-20,Follow-Up,N39.0,Met
+P004,Dr. Johnson,PT00065,68,Other,2024-06-01,ER,I10,Met
+P008,Dr. Davis,PT00643,38,M,2024-05-02,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00966,62,Other,2024-02-04,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT00666,88,Other,2024-02-20,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT00942,22,Other,2024-03-15,Annual Checkup,F41.9,Met
+P005,Dr. Nguyen,PT01250,81,M,2024-12-19,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT00461,60,M,2024-03-25,Follow-Up,M54.5,Met
+P008,Dr. Davis,PT00650,34,M,2024-04-23,Annual Checkup,E78.5,Met
+P010,Dr. Wilson,PT01386,56,Other,2024-05-23,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00595,68,F,2024-11-02,Annual Checkup,I10,Met
+P008,Dr. Davis,PT01344,40,M,2024-04-13,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT00556,63,Other,2024-04-21,Follow-Up,J45.909,Met
+P010,Dr. Wilson,PT00491,83,F,2024-11-22,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT00108,45,F,2024-11-07,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00011,37,Other,2025-05-17,Telehealth,J45.909,Met
+P008,Dr. Davis,PT00978,52,Other,2024-08-07,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT01575,56,F,2024-04-17,Follow-Up,M54.5,Met
+P001,Dr. Smith,PT00359,74,M,2024-03-02,ER,J45.909,Not Met
+P001,Dr. Smith,PT00814,52,M,2024-07-13,Annual Checkup,E78.5,Not Met
+P001,Dr. Smith,PT00612,47,Other,2024-01-01,Follow-Up,F41.9,Met
+P009,Dr. Garcia,PT01074,36,M,2024-04-02,ER,J45.909,Not Met
+P008,Dr. Davis,PT00559,25,F,2024-10-29,ER,F41.9,Met
+P008,Dr. Davis,PT01328,31,M,2024-06-09,Follow-Up,E11.9,Not Met
+P005,Dr. Nguyen,PT01163,31,Other,2024-03-13,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00876,50,Other,2024-01-19,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00288,27,M,2024-01-24,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT00483,6,M,2024-10-22,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT00024,54,M,2024-02-24,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00954,88,M,2024-01-02,Annual Checkup,G43.909,Not Met
+P005,Dr. Nguyen,PT01414,75,F,2024-05-10,Follow-Up,E78.5,Met
+P004,Dr. Johnson,PT00449,50,F,2024-01-11,Annual Checkup,K21.9,Not Met
+P010,Dr. Wilson,PT00766,35,M,2025-11-23,Follow-Up,K21.9,Not Met
+P004,Dr. Johnson,PT01561,95,F,2024-01-09,Follow-Up,Z00.00,Not Met
+P002,Dr. Lee,PT01077,56,M,2024-06-15,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT00230,58,F,2024-01-28,ER,G43.909,Met
+P009,Dr. Garcia,PT00307,52,F,2024-01-26,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT01469,54,Other,2024-04-09,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00929,45,F,2024-01-09,Follow-Up,K21.9,Not Met
+P009,Dr. Garcia,PT00947,50,Other,2024-03-30,ER,E11.9,Met
+P001,Dr. Smith,PT01528,82,F,2024-03-10,Follow-Up,E11.9,Met
+P002,Dr. Lee,PT01109,77,F,2024-01-21,ER,I10,Not Met
+P008,Dr. Davis,PT00065,17,M,2024-01-25,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00767,29,M,2024-05-03,Annual Checkup,N39.0,Met
+P009,Dr. Garcia,PT00273,40,Other,2024-03-04,ER,I10,Met
+P009,Dr. Garcia,PT00805,71,Other,2024-01-04,Annual Checkup,M54.5,Not Met
+P001,Dr. Smith,PT00612,77,M,2024-01-31,Follow-Up,G43.909,Met
+P007,Dr. Brown,PT00471,67,F,2024-01-03,Annual Checkup,J45.909,Met
+P002,Dr. Lee,PT00066,34,Other,2024-01-14,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT00207,45,Other,2024-05-06,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT00502,63,Other,2024-02-02,Annual Checkup,K21.9,Met
+P004,Dr. Johnson,PT01545,50,F,2024-06-02,Annual Checkup,E78.5,Met
+P010,Dr. Wilson,PT00654,48,Other,2024-08-20,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT01353,48,Other,2024-05-12,Annual Checkup,E78.5,Met
+P009,Dr. Garcia,PT01212,75,Other,2024-01-28,ER,N39.0,Met
+P001,Dr. Smith,PT00706,65,Other,2024-01-02,Follow-Up,G43.909,Met
+P007,Dr. Brown,PT00837,49,F,2024-01-11,Annual Checkup,J45.909,Not Met
+P008,Dr. Davis,PT00494,60,F,2024-03-06,Annual Checkup,J45.909,Not Met
+P001,Dr. Smith,PT01152,32,M,2024-09-24,Telehealth,G43.909,Met
+P007,Dr. Brown,PT00498,45,M,2024-02-06,Annual Checkup,I10,Not Met
+P006,Dr. Martinez,PT00190,73,Other,2024-02-27,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT01380,26,Other,2024-04-27,Follow-Up,I10,Met
+P010,Dr. Wilson,PT01484,65,Other,2024-03-04,Follow-Up,K21.9,Met
+P006,Dr. Martinez,PT00621,17,F,2024-02-11,Annual Checkup,M54.5,Not Met
+P002,Dr. Lee,PT01530,85,M,2024-12-21,ER,Z00.00,Not Met
+P007,Dr. Brown,PT00491,45,Other,2024-08-31,Annual Checkup,E78.5,Met
+P009,Dr. Garcia,PT01329,62,M,2024-03-21,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT00955,57,F,2024-03-07,ER,K21.9,Not Met
+P006,Dr. Martinez,PT00417,57,M,2024-01-03,Annual Checkup,E11.9,Not Met
+P004,Dr. Johnson,PT01519,60,F,2024-04-30,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT01475,24,M,2024-02-05,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT01167,58,F,2025-05-14,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT01482,51,Other,2024-03-30,Follow-Up,K21.9,Met
+P006,Dr. Martinez,PT00347,45,F,2024-01-03,Follow-Up,K21.9,Met
+P009,Dr. Garcia,PT01315,40,F,2024-10-21,Follow-Up,I10,Not Met
+P001,Dr. Smith,PT01566,58,F,2024-02-08,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT00019,37,F,2024-04-06,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT00990,73,Other,2024-01-28,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT00025,63,F,2024-01-02,Follow-Up,E78.5,Met
+P005,Dr. Nguyen,PT00036,59,Other,2024-04-20,ER,N39.0,Not Met
+P003,Dr. Patel,PT00220,72,F,2024-05-11,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT00517,21,M,2024-03-28,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00941,31,Other,2024-01-06,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT01339,64,Other,2024-01-11,Follow-Up,I10,Met
+P007,Dr. Brown,PT01132,41,M,2024-04-20,Annual Checkup,E11.9,Not Met
+P002,Dr. Lee,PT01024,43,M,2024-02-10,Follow-Up,F41.9,Met
+P002,Dr. Lee,PT01082,29,F,2024-02-22,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT00153,37,Other,2024-04-10,ER,G43.909,Not Met
+P001,Dr. Smith,PT00368,73,M,2024-03-18,Annual Checkup,M54.5,Not Met
+P007,Dr. Brown,PT00158,63,M,2024-06-07,Annual Checkup,M54.5,Not Met
+P007,Dr. Brown,PT01387,58,Other,2024-01-30,Annual Checkup,J45.909,Not Met
+P002,Dr. Lee,PT01026,44,Other,2024-03-23,Telehealth,E11.9,Met
+P004,Dr. Johnson,PT00156,57,M,2024-04-19,Follow-Up,Z00.00,Not Met
+P007,Dr. Brown,PT01585,75,M,2024-01-14,Annual Checkup,E78.5,Not Met
+P008,Dr. Davis,PT01005,42,F,2024-01-10,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT01354,54,M,2024-05-19,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT01461,86,F,2024-03-09,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT01515,67,M,2024-07-11,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT00911,44,M,2024-05-22,Follow-Up,I10,Met
+P003,Dr. Patel,PT00883,66,M,2024-02-23,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT00184,26,M,2024-01-12,Follow-Up,Z00.00,Not Met
+P006,Dr. Martinez,PT00789,53,F,2024-01-25,Annual Checkup,N39.0,Not Met
+P009,Dr. Garcia,PT00498,66,Other,2024-04-03,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT00617,61,M,2024-07-16,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT00863,65,M,2024-05-09,Annual Checkup,I10,Met
+P004,Dr. Johnson,PT01477,70,Other,2024-02-04,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00278,63,M,2024-03-21,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00779,62,M,2024-01-24,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00279,58,M,2024-04-10,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT00816,35,M,2024-11-05,Annual Checkup,K21.9,Not Met
+P004,Dr. Johnson,PT00668,73,M,2025-03-01,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00410,54,Other,2024-08-25,Telehealth,J45.909,Not Met
+P009,Dr. Garcia,PT00056,67,Other,2024-08-11,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT01419,71,F,2024-01-05,ER,N39.0,Met
+P003,Dr. Patel,PT01298,45,M,2024-04-18,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00152,47,M,2024-01-10,Telehealth,K21.9,Not Met
+P009,Dr. Garcia,PT01038,49,Other,2024-05-23,Annual Checkup,E11.9,Not Met
+P006,Dr. Martinez,PT01437,77,Other,2024-01-09,Follow-Up,I10,Met
+P004,Dr. Johnson,PT01347,38,Other,2024-02-15,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT01542,81,M,2024-02-16,Telehealth,N39.0,Met
+P002,Dr. Lee,PT00530,58,F,2024-04-27,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00453,59,M,2024-02-01,Annual Checkup,K21.9,Not Met
+P010,Dr. Wilson,PT01415,71,Other,2024-01-03,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT00852,56,F,2024-12-01,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00933,74,F,2024-07-11,Follow-Up,F41.9,Met
+P008,Dr. Davis,PT01479,45,Other,2024-03-19,Annual Checkup,I10,Met
+P002,Dr. Lee,PT00047,80,M,2024-04-28,Follow-Up,J45.909,Not Met
+P004,Dr. Johnson,PT01057,46,F,2024-03-06,Follow-Up,F41.9,Not Met
+P008,Dr. Davis,PT00475,81,M,2024-06-09,Follow-Up,J45.909,Not Met
+P007,Dr. Brown,PT00811,47,F,2024-02-22,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT00797,49,F,2024-02-10,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT01183,36,F,2024-01-06,Follow-Up,G43.909,Met
+P006,Dr. Martinez,PT00404,41,M,2024-01-03,Annual Checkup,K21.9,Met
+P006,Dr. Martinez,PT01223,54,M,2024-02-28,Follow-Up,Z00.00,Met
+P006,Dr. Martinez,PT00938,59,Other,2024-05-16,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT00174,72,Other,2024-12-13,Annual Checkup,I10,Met
+P002,Dr. Lee,PT00375,51,M,2024-03-16,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00283,34,Other,2025-07-21,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT01421,61,Other,2024-02-01,ER,J45.909,Met
+P008,Dr. Davis,PT00592,57,F,2024-04-22,Annual Checkup,K21.9,Not Met
+P006,Dr. Martinez,PT00020,63,M,2024-03-27,Annual Checkup,N39.0,Not Met
+P009,Dr. Garcia,PT01338,43,M,2024-01-30,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT01001,45,F,2024-01-25,Annual Checkup,E11.9,Not Met
+P004,Dr. Johnson,PT00599,43,F,2024-01-08,Annual Checkup,G43.909,Met
+P008,Dr. Davis,PT01159,76,Other,2025-02-21,Follow-Up,K21.9,Met
+P002,Dr. Lee,PT01173,80,F,2024-05-22,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT01111,44,F,2024-01-21,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT00210,45,Other,2024-01-31,ER,M54.5,Met
+P001,Dr. Smith,PT00922,66,M,2024-04-02,Annual Checkup,I10,Met
+P002,Dr. Lee,PT01589,82,F,2024-01-12,Annual Checkup,Z00.00,Met
+P010,Dr. Wilson,PT01296,87,M,2024-09-08,Annual Checkup,J45.909,Not Met
+P004,Dr. Johnson,PT00122,43,Other,2024-09-20,Annual Checkup,E78.5,Not Met
+P003,Dr. Patel,PT00663,48,Other,2025-01-08,Annual Checkup,Z00.00,Met
+P009,Dr. Garcia,PT01392,60,F,2024-05-07,Annual Checkup,N39.0,Not Met
+P005,Dr. Nguyen,PT01344,61,F,2024-04-06,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT00507,51,Other,2024-02-25,Annual Checkup,J45.909,Not Met
+P005,Dr. Nguyen,PT01286,40,M,2024-02-06,Annual Checkup,I10,Met
+P002,Dr. Lee,PT00826,54,Other,2024-01-11,Follow-Up,F41.9,Met
+P008,Dr. Davis,PT00671,87,Other,2024-01-30,Annual Checkup,I10,Not Met
+P008,Dr. Davis,PT01301,45,Other,2024-08-16,Follow-Up,I10,Not Met
+P007,Dr. Brown,PT00447,59,M,2024-03-23,ER,K21.9,Met
+P005,Dr. Nguyen,PT00692,95,Other,2024-07-27,Follow-Up,Z00.00,Not Met
+P006,Dr. Martinez,PT01398,45,F,2024-02-21,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00904,67,M,2024-02-07,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01332,88,M,2024-09-10,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00513,65,F,2024-08-16,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT01487,74,Other,2024-08-30,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00003,69,F,2024-05-23,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT01393,64,M,2024-05-16,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01422,79,F,2024-01-21,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT00212,66,M,2024-09-12,Annual Checkup,E78.5,Met
+P003,Dr. Patel,PT01314,51,Other,2024-02-18,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT01332,57,F,2024-06-12,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT00844,61,Other,2024-08-02,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00287,47,F,2024-03-25,Follow-Up,N39.0,Met
+P007,Dr. Brown,PT00645,58,F,2024-04-29,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT01229,55,Other,2024-02-06,Follow-Up,E11.9,Not Met
+P005,Dr. Nguyen,PT00421,66,Other,2024-06-30,Follow-Up,M54.5,Not Met
+P005,Dr. Nguyen,PT01324,93,F,2024-01-14,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00494,59,M,2025-01-30,Follow-Up,I10,Met
+P001,Dr. Smith,PT00740,83,M,2024-02-20,Annual Checkup,Z00.00,Met
+P009,Dr. Garcia,PT01399,65,F,2024-01-13,Follow-Up,I10,Met
+P002,Dr. Lee,PT00029,58,M,2024-11-28,Annual Checkup,E11.9,Not Met
+P007,Dr. Brown,PT01038,46,M,2024-02-12,Follow-Up,G43.909,Not Met
+P007,Dr. Brown,PT01438,58,M,2024-05-27,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00569,57,F,2024-02-20,Annual Checkup,G43.909,Not Met
+P003,Dr. Patel,PT01099,42,M,2024-04-26,Annual Checkup,I10,Met
+P007,Dr. Brown,PT01495,44,F,2024-06-19,Annual Checkup,I10,Not Met
+P002,Dr. Lee,PT00929,61,Other,2024-01-03,Follow-Up,E78.5,Met
+P003,Dr. Patel,PT00245,83,F,2024-05-17,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT01072,53,Other,2024-03-11,Follow-Up,E78.5,Met
+P003,Dr. Patel,PT01536,28,M,2024-01-22,Follow-Up,I10,Not Met
+P001,Dr. Smith,PT00687,15,M,2024-07-09,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT01286,36,F,2024-01-11,Annual Checkup,G43.909,Met
+P008,Dr. Davis,PT01161,67,F,2024-05-16,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT01381,31,Other,2024-12-27,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00501,70,F,2024-01-20,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00073,66,Other,2024-03-06,ER,N39.0,Met
+P004,Dr. Johnson,PT00853,53,Other,2024-05-02,Annual Checkup,I10,Not Met
+P002,Dr. Lee,PT01029,27,Other,2025-05-11,ER,J45.909,Met
+P009,Dr. Garcia,PT00095,42,M,2024-03-04,Annual Checkup,K21.9,Not Met
+P005,Dr. Nguyen,PT00671,50,F,2024-01-29,Follow-Up,E11.9,Met
+P005,Dr. Nguyen,PT01155,61,M,2024-01-04,Follow-Up,M54.5,Met
+P010,Dr. Wilson,PT01011,32,F,2024-08-27,Follow-Up,G43.909,Not Met
+P004,Dr. Johnson,PT00309,80,F,2024-03-17,ER,E11.9,Met
+P006,Dr. Martinez,PT01303,61,Other,2024-06-25,ER,F41.9,Met
+P007,Dr. Brown,PT01512,63,Other,2024-08-11,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00860,66,M,2024-01-17,Telehealth,J45.909,Not Met
+P002,Dr. Lee,PT00090,78,F,2024-01-04,ER,G43.909,Met
+P006,Dr. Martinez,PT00939,58,Other,2024-07-10,Annual Checkup,I10,Met
+P007,Dr. Brown,PT00154,67,Other,2024-03-19,Follow-Up,N39.0,Not Met
+P003,Dr. Patel,PT00485,42,M,2024-01-27,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01436,87,Other,2024-03-22,Annual Checkup,K21.9,Met
+P002,Dr. Lee,PT00416,57,F,2024-02-07,Follow-Up,Z00.00,Met
+P002,Dr. Lee,PT00337,42,M,2024-07-10,Annual Checkup,N39.0,Met
+P006,Dr. Martinez,PT01578,46,F,2024-01-02,Annual Checkup,K21.9,Met
+P002,Dr. Lee,PT00186,20,F,2024-01-10,ER,E78.5,Not Met
+P010,Dr. Wilson,PT00083,46,F,2024-04-19,ER,F41.9,Met
+P004,Dr. Johnson,PT00729,11,M,2024-02-11,Follow-Up,E78.5,Met
+P003,Dr. Patel,PT00064,69,M,2024-06-30,ER,G43.909,Not Met
+P004,Dr. Johnson,PT00194,62,M,2024-01-05,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT01600,37,F,2024-02-03,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01193,54,Other,2025-06-02,Annual Checkup,I10,Met
+P002,Dr. Lee,PT00405,54,Other,2024-04-25,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00251,34,F,2024-05-25,ER,E11.9,Met
+P010,Dr. Wilson,PT00888,51,Other,2024-02-17,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT00354,55,M,2024-03-28,Annual Checkup,J45.909,Met
+P008,Dr. Davis,PT00305,50,F,2024-01-05,Follow-Up,Z00.00,Met
+P005,Dr. Nguyen,PT01022,42,M,2024-01-10,ER,K21.9,Met
+P005,Dr. Nguyen,PT00785,36,F,2024-04-10,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00040,49,M,2024-05-20,Follow-Up,F41.9,Met
+P008,Dr. Davis,PT00705,44,Other,2024-01-22,Follow-Up,N39.0,Met
+P001,Dr. Smith,PT00654,65,Other,2024-01-14,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT01085,80,M,2024-01-04,Follow-Up,M54.5,Not Met
+P002,Dr. Lee,PT00508,71,Other,2024-11-26,Annual Checkup,G43.909,Not Met
+P001,Dr. Smith,PT01565,56,F,2024-05-28,Follow-Up,N39.0,Met
+P003,Dr. Patel,PT00361,43,F,2024-09-02,Follow-Up,F41.9,Not Met
+P001,Dr. Smith,PT01441,71,Other,2024-02-19,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT00386,66,M,2024-07-21,Follow-Up,J45.909,Met
+P002,Dr. Lee,PT00116,78,F,2024-03-13,Follow-Up,E11.9,Met
+P001,Dr. Smith,PT00680,58,Other,2024-05-03,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT00663,86,F,2024-01-11,Annual Checkup,Z00.00,Not Met
+P003,Dr. Patel,PT01586,58,F,2024-01-08,ER,F41.9,Not Met
+P006,Dr. Martinez,PT01443,43,Other,2024-09-03,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00280,46,F,2024-01-30,Follow-Up,N39.0,Not Met
+P008,Dr. Davis,PT01330,64,M,2024-05-09,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT00731,44,F,2024-03-23,Follow-Up,J45.909,Met
+P005,Dr. Nguyen,PT00261,86,F,2024-02-01,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT00067,62,F,2025-11-04,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT00214,55,M,2024-01-27,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00344,57,Other,2024-05-16,ER,I10,Not Met
+P006,Dr. Martinez,PT00915,50,F,2024-08-31,Annual Checkup,M54.5,Not Met
+P006,Dr. Martinez,PT00526,24,F,2024-06-04,Follow-Up,E11.9,Met
+P007,Dr. Brown,PT00341,46,M,2024-02-20,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00208,83,M,2024-02-25,Follow-Up,Z00.00,Not Met
+P004,Dr. Johnson,PT00334,59,M,2024-03-10,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00535,73,F,2024-06-04,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT01500,74,F,2024-10-04,Follow-Up,I10,Met
+P010,Dr. Wilson,PT00989,54,Other,2024-03-06,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00322,66,F,2024-10-19,Annual Checkup,M54.5,Not Met
+P007,Dr. Brown,PT01428,26,Other,2024-01-29,Follow-Up,G43.909,Met
+P005,Dr. Nguyen,PT00610,81,F,2024-06-07,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00315,79,F,2024-01-17,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00984,63,F,2024-01-24,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT00168,59,M,2024-02-02,ER,E78.5,Not Met
+P008,Dr. Davis,PT01002,54,Other,2024-02-04,Annual Checkup,G43.909,Met
+P006,Dr. Martinez,PT00782,76,M,2024-09-02,Annual Checkup,E11.9,Met
+P008,Dr. Davis,PT00540,68,F,2024-02-23,ER,Z00.00,Met
+P002,Dr. Lee,PT00176,3,Other,2024-04-17,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT00466,48,Other,2025-02-22,Annual Checkup,N39.0,Not Met
+P007,Dr. Brown,PT01097,34,Other,2024-02-05,ER,K21.9,Not Met
+P004,Dr. Johnson,PT00976,31,M,2024-06-27,Annual Checkup,E11.9,Met
+P009,Dr. Garcia,PT01171,75,Other,2024-01-17,Telehealth,J45.909,Met
+P008,Dr. Davis,PT00355,54,F,2024-02-02,Telehealth,M54.5,Met
+P007,Dr. Brown,PT00161,63,Other,2024-01-10,Annual Checkup,J45.909,Not Met
+P005,Dr. Nguyen,PT00655,56,Other,2024-02-19,ER,I10,Met
+P009,Dr. Garcia,PT00814,31,Other,2024-07-30,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT01435,26,Other,2024-04-25,Follow-Up,N39.0,Met
+P003,Dr. Patel,PT00304,47,Other,2024-05-27,Follow-Up,I10,Not Met
+P010,Dr. Wilson,PT01597,48,F,2024-01-05,Follow-Up,G43.909,Not Met
+P007,Dr. Brown,PT00541,48,M,2024-06-08,Follow-Up,Z00.00,Not Met
+P001,Dr. Smith,PT00353,49,M,2024-08-11,Annual Checkup,Z00.00,Not Met
+P007,Dr. Brown,PT00080,92,M,2024-07-15,ER,F41.9,Not Met
+P001,Dr. Smith,PT01528,73,M,2024-01-28,ER,F41.9,Met
+P005,Dr. Nguyen,PT00637,59,M,2024-01-15,ER,I10,Not Met
+P004,Dr. Johnson,PT00276,53,M,2024-03-31,Telehealth,K21.9,Not Met
+P006,Dr. Martinez,PT00552,54,Other,2024-11-27,Annual Checkup,I10,Met
+P004,Dr. Johnson,PT00834,68,Other,2024-02-15,Annual Checkup,G43.909,Not Met
+P001,Dr. Smith,PT01056,53,F,2024-03-25,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT01165,71,F,2024-03-13,Annual Checkup,M54.5,Not Met
+P004,Dr. Johnson,PT00068,61,M,2024-03-27,Annual Checkup,F41.9,Not Met
+P005,Dr. Nguyen,PT00755,92,M,2024-01-19,Follow-Up,I10,Met
+P004,Dr. Johnson,PT00763,52,M,2024-01-04,Follow-Up,J45.909,Not Met
+P008,Dr. Davis,PT01202,74,Other,2024-01-28,Annual Checkup,J45.909,Not Met
+P005,Dr. Nguyen,PT01534,36,Other,2024-05-14,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT01172,43,F,2024-08-31,ER,M54.5,Met
+P005,Dr. Nguyen,PT01335,89,M,2024-01-24,Follow-Up,E11.9,Met
+P003,Dr. Patel,PT01326,70,F,2024-12-13,Follow-Up,E11.9,Met
+P010,Dr. Wilson,PT00626,63,Other,2024-05-17,Telehealth,E78.5,Met
+P007,Dr. Brown,PT00715,95,M,2024-08-31,Annual Checkup,K21.9,Met
+P009,Dr. Garcia,PT01278,53,M,2024-04-11,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT01150,74,Other,2024-01-30,Follow-Up,E78.5,Met
+P002,Dr. Lee,PT00987,76,F,2024-05-09,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT00535,84,Other,2024-01-14,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT01568,34,F,2024-05-08,ER,Z00.00,Met
+P006,Dr. Martinez,PT01395,53,F,2024-09-02,Follow-Up,K21.9,Not Met
+P005,Dr. Nguyen,PT00858,60,M,2024-07-02,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT00389,84,M,2024-09-09,Follow-Up,M54.5,Not Met
+P008,Dr. Davis,PT01376,63,M,2024-03-03,Follow-Up,J45.909,Not Met
+P009,Dr. Garcia,PT00371,76,M,2024-07-16,Annual Checkup,J45.909,Not Met
+P009,Dr. Garcia,PT01563,32,F,2024-06-21,ER,F41.9,Met
+P004,Dr. Johnson,PT00728,49,F,2024-07-23,Follow-Up,E78.5,Met
+P006,Dr. Martinez,PT00762,79,M,2024-01-16,Follow-Up,K21.9,Not Met
+P008,Dr. Davis,PT00110,51,Other,2024-02-17,Follow-Up,Z00.00,Met
+P004,Dr. Johnson,PT01025,55,F,2024-02-24,ER,N39.0,Met
+P007,Dr. Brown,PT00111,83,F,2024-02-29,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00938,39,F,2024-03-12,Annual Checkup,J45.909,Not Met
+P008,Dr. Davis,PT00682,43,Other,2024-01-31,Telehealth,F41.9,Not Met
+P001,Dr. Smith,PT00926,31,M,2024-01-10,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT01003,84,F,2024-04-25,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00879,73,M,2024-03-15,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00029,72,M,2024-03-28,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT01284,49,Other,2024-03-19,Annual Checkup,F41.9,Met
+P002,Dr. Lee,PT00786,29,Other,2024-04-14,Follow-Up,J45.909,Met
+P001,Dr. Smith,PT00611,25,M,2024-04-01,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT00889,79,Other,2024-07-20,Telehealth,F41.9,Not Met
+P008,Dr. Davis,PT00736,65,F,2024-05-31,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT01490,68,F,2024-02-03,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT00253,60,M,2024-11-10,Follow-Up,E11.9,Met
+P005,Dr. Nguyen,PT01580,41,Other,2024-03-20,Follow-Up,Z00.00,Not Met
+P002,Dr. Lee,PT01339,49,F,2024-02-05,Annual Checkup,I10,Met
+P007,Dr. Brown,PT00254,37,Other,2024-07-13,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT00617,35,M,2024-04-02,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT01436,71,F,2024-05-31,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00242,26,M,2024-02-08,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00410,37,M,2024-01-24,ER,M54.5,Met
+P007,Dr. Brown,PT00605,50,F,2024-05-17,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT00678,56,F,2024-05-28,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT01371,30,M,2024-01-14,Annual Checkup,I10,Not Met
+P002,Dr. Lee,PT01482,26,Other,2025-01-30,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT00607,62,M,2024-03-20,Annual Checkup,I10,Not Met
+P001,Dr. Smith,PT00596,59,M,2024-01-06,ER,F41.9,Met
+P002,Dr. Lee,PT00195,79,F,2024-04-30,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT00674,57,M,2024-07-24,ER,Z00.00,Met
+P002,Dr. Lee,PT00764,64,M,2024-09-15,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00557,42,M,2024-04-23,Follow-Up,K21.9,Not Met
+P003,Dr. Patel,PT00232,43,F,2024-03-04,Follow-Up,E11.9,Not Met
+P003,Dr. Patel,PT00213,32,M,2024-06-30,ER,K21.9,Not Met
+P008,Dr. Davis,PT00372,42,Other,2024-02-08,Annual Checkup,F41.9,Not Met
+P003,Dr. Patel,PT00990,49,M,2024-05-12,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT00536,77,Other,2024-01-13,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT01483,39,Other,2024-04-16,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT00196,93,M,2024-01-23,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT00305,66,Other,2024-01-30,ER,Z00.00,Met
+P003,Dr. Patel,PT01036,62,M,2024-01-13,ER,J45.909,Met
+P008,Dr. Davis,PT00657,55,F,2024-04-22,Annual Checkup,E78.5,Met
+P004,Dr. Johnson,PT01128,52,Other,2024-04-04,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT01174,44,M,2024-04-18,Annual Checkup,K21.9,Met
+P002,Dr. Lee,PT01019,30,Other,2024-03-23,Follow-Up,I10,Met
+P001,Dr. Smith,PT01142,40,Other,2024-03-08,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT01306,84,M,2024-05-31,ER,G43.909,Met
+P008,Dr. Davis,PT00699,65,M,2024-02-08,ER,M54.5,Not Met
+P006,Dr. Martinez,PT01148,84,Other,2024-01-10,Follow-Up,F41.9,Not Met
+P002,Dr. Lee,PT00200,44,Other,2024-01-31,Annual Checkup,F41.9,Met
+P005,Dr. Nguyen,PT01122,36,Other,2024-02-22,Annual Checkup,I10,Met
+P003,Dr. Patel,PT01009,55,F,2024-01-09,ER,N39.0,Met
+P010,Dr. Wilson,PT00402,41,F,2024-07-12,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT01468,59,M,2024-09-11,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00253,26,M,2024-05-06,Annual Checkup,Z00.00,Not Met
+P003,Dr. Patel,PT01022,19,F,2024-02-18,Follow-Up,E11.9,Met
+P007,Dr. Brown,PT01199,61,M,2024-05-12,ER,J45.909,Not Met
+P003,Dr. Patel,PT01497,85,F,2024-03-16,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT01033,62,M,2024-01-08,Annual Checkup,Z00.00,Not Met
+P004,Dr. Johnson,PT00561,65,M,2024-01-24,Telehealth,E78.5,Met
+P003,Dr. Patel,PT00283,56,M,2024-05-20,Follow-Up,G43.909,Met
+P009,Dr. Garcia,PT00643,58,Other,2024-01-13,Follow-Up,G43.909,Met
+P004,Dr. Johnson,PT00430,29,Other,2024-03-12,Follow-Up,F41.9,Not Met
+P003,Dr. Patel,PT01455,41,Other,2024-05-11,Telehealth,J45.909,Met
+P006,Dr. Martinez,PT01455,77,F,2024-07-09,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT01367,35,Other,2025-08-09,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00027,49,Other,2024-11-10,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT00410,76,M,2024-03-29,Follow-Up,J45.909,Not Met
+P005,Dr. Nguyen,PT00300,57,F,2024-04-27,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT00067,58,M,2024-01-17,ER,I10,Met
+P009,Dr. Garcia,PT00460,49,Other,2024-07-28,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT01420,67,Other,2024-01-05,Annual Checkup,N39.0,Met
+P006,Dr. Martinez,PT01131,72,F,2024-02-13,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT00462,40,Other,2024-01-12,Follow-Up,F41.9,Not Met
+P009,Dr. Garcia,PT01513,31,Other,2024-11-27,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT01399,21,F,2024-03-01,Annual Checkup,J45.909,Not Met
+P002,Dr. Lee,PT00773,64,F,2024-03-12,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT01197,61,M,2024-10-29,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00082,95,F,2024-03-23,ER,Z00.00,Met
+P010,Dr. Wilson,PT01356,56,M,2024-02-27,Annual Checkup,Z00.00,Not Met
+P002,Dr. Lee,PT01450,53,M,2024-09-09,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT00327,59,M,2024-07-06,Follow-Up,N39.0,Met
+P004,Dr. Johnson,PT00437,60,Other,2024-02-13,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT01087,51,M,2024-01-23,Telehealth,E11.9,Met
+P006,Dr. Martinez,PT00913,41,F,2024-05-22,ER,Z00.00,Not Met
+P004,Dr. Johnson,PT00082,55,Other,2024-05-02,ER,N39.0,Not Met
+P002,Dr. Lee,PT00791,54,M,2024-07-26,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT01578,54,M,2024-04-21,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT00608,69,Other,2024-06-22,Annual Checkup,G43.909,Met
+P002,Dr. Lee,PT00343,55,Other,2024-03-02,Follow-Up,I10,Met
+P004,Dr. Johnson,PT01404,31,M,2024-01-19,ER,M54.5,Met
+P007,Dr. Brown,PT01325,44,F,2024-01-04,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT00078,51,F,2024-01-18,Annual Checkup,J45.909,Not Met
+P009,Dr. Garcia,PT00145,56,Other,2025-02-09,ER,E78.5,Met
+P008,Dr. Davis,PT01291,64,M,2024-03-08,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01096,56,F,2024-03-10,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT00094,19,Other,2024-01-14,ER,F41.9,Not Met
+P002,Dr. Lee,PT00594,33,Other,2024-04-25,Annual Checkup,I10,Met
+P008,Dr. Davis,PT00782,65,M,2024-05-06,ER,E11.9,Met
+P009,Dr. Garcia,PT00451,51,F,2024-01-08,Follow-Up,G43.909,Met
+P003,Dr. Patel,PT00611,81,Other,2025-09-24,ER,F41.9,Not Met
+P001,Dr. Smith,PT01134,57,Other,2025-05-08,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT00808,48,Other,2024-02-02,Follow-Up,I10,Met
+P006,Dr. Martinez,PT00434,43,M,2024-05-21,ER,G43.909,Met
+P003,Dr. Patel,PT00453,49,Other,2024-01-08,ER,M54.5,Met
+P010,Dr. Wilson,PT00112,57,Other,2024-07-20,Annual Checkup,G43.909,Met
+P002,Dr. Lee,PT00514,55,F,2024-04-24,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00732,72,F,2024-03-30,Follow-Up,M54.5,Met
+P010,Dr. Wilson,PT00143,28,F,2024-03-07,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT01421,30,Other,2024-02-25,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00878,50,F,2024-03-05,Annual Checkup,M54.5,Not Met
+P007,Dr. Brown,PT00567,64,M,2024-06-24,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT00913,68,M,2024-01-02,Follow-Up,K21.9,Not Met
+P003,Dr. Patel,PT01323,44,Other,2024-01-03,Annual Checkup,E78.5,Not Met
+P003,Dr. Patel,PT01104,8,F,2024-02-06,Annual Checkup,I10,Not Met
+P001,Dr. Smith,PT01039,45,Other,2024-04-01,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT00436,62,F,2024-01-30,Follow-Up,G43.909,Not Met
+P009,Dr. Garcia,PT00967,54,Other,2024-01-14,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT01502,65,M,2024-04-05,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00746,76,Other,2024-01-13,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT01402,52,F,2024-03-21,Follow-Up,J45.909,Met
+P003,Dr. Patel,PT01160,47,Other,2024-06-09,Follow-Up,J45.909,Not Met
+P008,Dr. Davis,PT00735,39,F,2024-03-18,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00757,30,F,2024-03-14,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00795,25,M,2024-07-03,ER,E11.9,Met
+P006,Dr. Martinez,PT00212,42,Other,2024-05-19,Telehealth,E78.5,Not Met
+P005,Dr. Nguyen,PT01186,73,Other,2024-03-10,Follow-Up,N39.0,Met
+P006,Dr. Martinez,PT01204,67,Other,2024-01-05,ER,I10,Met
+P007,Dr. Brown,PT00457,46,Other,2024-10-05,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT01238,93,F,2024-05-09,Follow-Up,J45.909,Met
+P004,Dr. Johnson,PT00158,44,Other,2024-09-27,Follow-Up,M54.5,Met
+P003,Dr. Patel,PT00742,78,Other,2024-01-09,Follow-Up,I10,Met
+P007,Dr. Brown,PT00677,83,Other,2024-03-28,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT00331,63,Other,2024-03-27,ER,E11.9,Met
+P003,Dr. Patel,PT01175,42,Other,2024-05-16,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT00301,48,F,2024-01-09,Annual Checkup,J45.909,Met
+P007,Dr. Brown,PT01228,58,Other,2024-01-02,Follow-Up,E78.5,Not Met
+P004,Dr. Johnson,PT00920,30,Other,2024-02-21,Telehealth,K21.9,Met
+P007,Dr. Brown,PT01231,37,F,2024-06-27,Follow-Up,J45.909,Not Met
+P009,Dr. Garcia,PT00542,36,F,2024-01-23,Follow-Up,F41.9,Not Met
+P010,Dr. Wilson,PT01210,64,F,2024-01-13,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT00415,76,Other,2024-02-06,ER,G43.909,Not Met
+P003,Dr. Patel,PT01241,67,F,2024-01-03,Annual Checkup,Z00.00,Met
+P009,Dr. Garcia,PT01031,72,F,2024-04-27,Annual Checkup,J45.909,Not Met
+P009,Dr. Garcia,PT00003,41,Other,2024-02-27,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT01429,49,Other,2024-04-24,Annual Checkup,K21.9,Not Met
+P007,Dr. Brown,PT00718,50,Other,2024-06-27,ER,Z00.00,Met
+P003,Dr. Patel,PT00522,63,M,2024-01-06,Follow-Up,I10,Met
+P009,Dr. Garcia,PT00837,93,M,2025-02-18,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01065,43,F,2025-04-14,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00838,71,M,2024-04-20,Annual Checkup,N39.0,Not Met
+P005,Dr. Nguyen,PT00536,82,Other,2024-07-19,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT01547,64,F,2024-05-08,Annual Checkup,G43.909,Met
+P006,Dr. Martinez,PT01146,48,Other,2024-11-11,Annual Checkup,E78.5,Not Met
+P007,Dr. Brown,PT01507,39,F,2024-01-31,ER,I10,Not Met
+P008,Dr. Davis,PT01433,36,F,2024-03-10,Annual Checkup,G43.909,Met
+P006,Dr. Martinez,PT01128,19,Other,2024-04-23,Follow-Up,E11.9,Met
+P001,Dr. Smith,PT00187,51,F,2024-09-18,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00539,50,F,2024-05-04,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00821,70,Other,2024-08-25,Follow-Up,E78.5,Not Met
+P010,Dr. Wilson,PT00118,44,F,2024-08-12,Follow-Up,K21.9,Met
+P009,Dr. Garcia,PT00586,51,F,2024-06-17,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT01260,60,F,2024-03-15,Follow-Up,F41.9,Met
+P001,Dr. Smith,PT00323,63,F,2024-06-28,Telehealth,N39.0,Met
+P007,Dr. Brown,PT00831,68,Other,2024-05-08,Annual Checkup,E11.9,Not Met
+P002,Dr. Lee,PT00185,58,Other,2025-05-16,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT00712,31,M,2024-11-28,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT01178,62,F,2024-07-23,Annual Checkup,N39.0,Met
+P009,Dr. Garcia,PT00149,43,Other,2024-01-29,Annual Checkup,I10,Not Met
+P005,Dr. Nguyen,PT01102,77,Other,2024-06-07,Annual Checkup,K21.9,Not Met
+P010,Dr. Wilson,PT00991,55,F,2024-04-03,Follow-Up,K21.9,Not Met
+P010,Dr. Wilson,PT00057,59,M,2024-02-12,Annual Checkup,I10,Met
+P004,Dr. Johnson,PT01387,95,Other,2024-04-09,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT01058,68,Other,2024-05-01,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT00818,61,Other,2024-06-20,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT00976,52,M,2024-01-02,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT01022,32,Other,2024-02-03,Annual Checkup,M54.5,Not Met
+P004,Dr. Johnson,PT00470,51,F,2024-07-12,ER,Z00.00,Met
+P002,Dr. Lee,PT00246,39,F,2024-01-28,Follow-Up,K21.9,Met
+P009,Dr. Garcia,PT00087,85,M,2024-04-24,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT00563,62,M,2024-01-25,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT01537,76,Other,2024-04-06,Annual Checkup,G43.909,Not Met
+P008,Dr. Davis,PT01108,44,F,2024-01-01,Follow-Up,N39.0,Not Met
+P003,Dr. Patel,PT00937,40,F,2025-01-15,Follow-Up,K21.9,Met
+P001,Dr. Smith,PT00025,66,Other,2024-02-25,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT01255,39,M,2024-02-13,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT01256,47,M,2024-09-08,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT01436,86,M,2024-09-17,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01171,47,F,2024-04-17,Telehealth,M54.5,Not Met
+P005,Dr. Nguyen,PT00483,29,Other,2024-05-22,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT00969,23,F,2024-01-01,Annual Checkup,K21.9,Met
+P009,Dr. Garcia,PT01094,27,Other,2024-07-08,Annual Checkup,K21.9,Met
+P009,Dr. Garcia,PT01163,77,F,2024-01-12,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00976,45,Other,2024-05-03,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT01148,95,Other,2024-01-09,ER,E78.5,Met
+P007,Dr. Brown,PT00249,82,M,2024-04-08,ER,Z00.00,Met
+P010,Dr. Wilson,PT01331,91,Other,2024-04-21,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT00999,73,Other,2024-02-07,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT00950,65,Other,2024-07-28,Telehealth,J45.909,Met
+P006,Dr. Martinez,PT00864,40,Other,2024-01-08,Follow-Up,N39.0,Not Met
+P002,Dr. Lee,PT00163,54,F,2024-02-18,Annual Checkup,F41.9,Met
+P005,Dr. Nguyen,PT01455,67,M,2024-07-05,Follow-Up,N39.0,Met
+P008,Dr. Davis,PT01600,72,M,2024-03-28,Follow-Up,G43.909,Not Met
+P007,Dr. Brown,PT00343,34,F,2024-02-17,ER,J45.909,Not Met
+P005,Dr. Nguyen,PT01524,51,Other,2024-03-09,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00196,53,F,2024-04-19,ER,K21.9,Met
+P001,Dr. Smith,PT01579,52,M,2024-06-08,Follow-Up,I10,Met
+P010,Dr. Wilson,PT00319,36,F,2024-05-01,Follow-Up,N39.0,Met
+P004,Dr. Johnson,PT01511,88,M,2024-07-03,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT00059,50,F,2024-08-07,Follow-Up,F41.9,Not Met
+P008,Dr. Davis,PT01108,37,M,2024-02-28,Follow-Up,J45.909,Not Met
+P009,Dr. Garcia,PT00363,88,Other,2024-01-25,Follow-Up,Z00.00,Met
+P009,Dr. Garcia,PT00635,82,M,2024-02-23,Annual Checkup,M54.5,Not Met
+P008,Dr. Davis,PT00631,57,M,2024-02-12,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT01072,23,F,2024-12-04,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT01548,46,M,2024-09-04,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00474,26,F,2024-08-09,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT00896,64,M,2024-03-14,Annual Checkup,N39.0,Not Met
+P004,Dr. Johnson,PT00539,45,F,2024-03-20,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT01422,54,Other,2024-03-09,Annual Checkup,G43.909,Not Met
+P007,Dr. Brown,PT00386,86,F,2024-06-05,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT01266,44,M,2024-04-23,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00040,63,F,2024-01-18,Annual Checkup,G43.909,Met
+P002,Dr. Lee,PT00578,68,M,2025-01-11,Annual Checkup,K21.9,Not Met
+P004,Dr. Johnson,PT00185,77,F,2024-01-09,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT01021,53,M,2024-02-06,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT00115,51,M,2024-02-04,Follow-Up,I10,Met
+P003,Dr. Patel,PT00394,50,M,2024-02-08,ER,E11.9,Met
+P004,Dr. Johnson,PT00789,61,M,2024-06-19,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01068,81,Other,2024-01-09,Telehealth,K21.9,Met
+P005,Dr. Nguyen,PT00662,50,F,2024-03-21,Follow-Up,E11.9,Not Met
+P009,Dr. Garcia,PT01067,11,F,2024-02-21,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT01366,70,F,2024-10-03,Telehealth,M54.5,Not Met
+P006,Dr. Martinez,PT00031,56,F,2024-11-27,Follow-Up,Z00.00,Met
+P004,Dr. Johnson,PT00019,64,F,2024-01-07,Follow-Up,K21.9,Not Met
+P003,Dr. Patel,PT00761,26,F,2024-06-06,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT00694,45,Other,2025-04-22,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT00220,69,F,2024-01-27,Annual Checkup,F41.9,Not Met
+P006,Dr. Martinez,PT00899,32,Other,2024-04-09,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT00514,63,F,2024-04-22,Annual Checkup,K21.9,Met
+P009,Dr. Garcia,PT01428,54,M,2024-02-21,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT01500,41,M,2024-08-16,Annual Checkup,Z00.00,Not Met
+P009,Dr. Garcia,PT00329,40,F,2024-04-08,Follow-Up,K21.9,Met
+P005,Dr. Nguyen,PT01110,36,M,2024-08-24,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00039,56,Other,2024-06-02,ER,Z00.00,Met
+P002,Dr. Lee,PT01349,58,Other,2024-04-04,ER,M54.5,Met
+P008,Dr. Davis,PT01569,48,Other,2024-01-11,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00227,35,F,2024-01-22,Follow-Up,I10,Met
+P003,Dr. Patel,PT00366,2,F,2024-12-15,Annual Checkup,K21.9,Met
+P001,Dr. Smith,PT01170,62,Other,2024-03-15,ER,K21.9,Met
+P010,Dr. Wilson,PT00525,71,F,2024-03-04,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT00428,66,Other,2024-01-08,Annual Checkup,I10,Met
+P001,Dr. Smith,PT00740,92,Other,2024-03-27,Follow-Up,N39.0,Not Met
+P001,Dr. Smith,PT01264,51,M,2024-01-07,Follow-Up,I10,Not Met
+P002,Dr. Lee,PT00443,79,Other,2024-07-04,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00396,43,Other,2024-01-22,Follow-Up,Z00.00,Not Met
+P003,Dr. Patel,PT01144,40,Other,2024-02-18,Follow-Up,I10,Not Met
+P010,Dr. Wilson,PT00734,57,Other,2024-01-28,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00370,84,Other,2024-09-09,Annual Checkup,F41.9,Met
+P009,Dr. Garcia,PT01229,49,M,2025-05-18,ER,F41.9,Met
+P006,Dr. Martinez,PT00762,26,M,2024-06-26,Follow-Up,N39.0,Not Met
+P006,Dr. Martinez,PT01247,70,F,2024-04-02,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT01525,53,M,2024-03-23,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00001,60,Other,2024-07-26,Annual Checkup,E78.5,Not Met
+P009,Dr. Garcia,PT00277,41,M,2024-02-27,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00045,57,Other,2024-02-10,ER,G43.909,Met
+P010,Dr. Wilson,PT01171,29,F,2024-07-07,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00543,88,M,2024-07-10,ER,M54.5,Met
+P005,Dr. Nguyen,PT00189,74,Other,2024-03-01,Annual Checkup,M54.5,Not Met
+P006,Dr. Martinez,PT00989,56,F,2024-01-21,Annual Checkup,Z00.00,Not Met
+P002,Dr. Lee,PT01220,70,Other,2024-05-22,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT01579,43,M,2024-08-21,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01578,73,F,2024-10-10,Follow-Up,Z00.00,Not Met
+P007,Dr. Brown,PT00111,48,M,2024-01-25,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT00670,47,Other,2024-09-26,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00913,37,Other,2024-03-10,Follow-Up,I10,Met
+P005,Dr. Nguyen,PT00808,62,F,2024-04-24,Annual Checkup,I10,Met
+P001,Dr. Smith,PT01123,55,M,2025-02-13,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01561,80,F,2024-03-05,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00402,35,Other,2024-09-13,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT00546,62,M,2024-03-07,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00868,76,M,2024-06-01,Annual Checkup,F41.9,Met
+P001,Dr. Smith,PT01577,95,M,2024-09-22,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT01277,58,F,2024-01-25,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00320,48,Other,2024-08-22,ER,I10,Not Met
+P004,Dr. Johnson,PT01272,58,F,2024-05-28,ER,E78.5,Met
+P002,Dr. Lee,PT00625,78,M,2024-02-15,Annual Checkup,F41.9,Met
+P009,Dr. Garcia,PT00434,78,F,2024-03-14,Follow-Up,E78.5,Met
+P010,Dr. Wilson,PT01495,52,F,2024-02-23,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT00090,78,M,2024-02-18,Annual Checkup,E78.5,Met
+P010,Dr. Wilson,PT00556,54,F,2024-01-23,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01358,70,Other,2024-01-13,Annual Checkup,I10,Met
+P007,Dr. Brown,PT00474,64,M,2024-02-02,Follow-Up,I10,Not Met
+P008,Dr. Davis,PT01223,47,Other,2024-03-12,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT01149,38,Other,2024-06-14,Annual Checkup,M54.5,Not Met
+P005,Dr. Nguyen,PT00684,76,M,2024-02-22,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00728,82,Other,2024-08-09,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT01282,62,M,2024-04-30,ER,E11.9,Not Met
+P005,Dr. Nguyen,PT00462,54,F,2024-01-17,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01495,33,M,2024-05-19,Follow-Up,Z00.00,Not Met
+P004,Dr. Johnson,PT00855,76,F,2024-01-09,Follow-Up,N39.0,Not Met
+P010,Dr. Wilson,PT00675,60,M,2024-01-31,Follow-Up,M54.5,Not Met
+P010,Dr. Wilson,PT01109,50,Other,2024-08-05,ER,J45.909,Met
+P009,Dr. Garcia,PT00277,70,M,2024-05-22,Telehealth,J45.909,Met
+P010,Dr. Wilson,PT00324,30,M,2024-03-27,Annual Checkup,G43.909,Not Met
+P002,Dr. Lee,PT00378,36,M,2024-01-05,ER,J45.909,Not Met
+P006,Dr. Martinez,PT00848,42,M,2024-02-13,Annual Checkup,E78.5,Met
+P004,Dr. Johnson,PT00219,64,F,2024-09-02,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT01162,58,Other,2024-06-23,Annual Checkup,M54.5,Met
+P001,Dr. Smith,PT00736,66,F,2024-02-06,Follow-Up,K21.9,Met
+P010,Dr. Wilson,PT00961,74,Other,2024-10-12,Follow-Up,J45.909,Not Met
+P008,Dr. Davis,PT00971,67,F,2024-01-15,Annual Checkup,M54.5,Met
+P001,Dr. Smith,PT00553,89,M,2024-03-12,Annual Checkup,M54.5,Not Met
+P002,Dr. Lee,PT00363,74,M,2024-04-04,ER,K21.9,Met
+P008,Dr. Davis,PT00506,52,M,2024-02-27,Annual Checkup,E11.9,Not Met
+P007,Dr. Brown,PT01475,45,M,2024-06-10,Annual Checkup,Z00.00,Not Met
+P009,Dr. Garcia,PT01314,53,Other,2024-10-27,Follow-Up,G43.909,Met
+P008,Dr. Davis,PT00087,67,F,2024-02-11,Follow-Up,N39.0,Not Met
+P001,Dr. Smith,PT01143,47,M,2024-10-16,Follow-Up,E11.9,Met
+P008,Dr. Davis,PT00816,68,M,2024-01-03,Follow-Up,E78.5,Met
+P007,Dr. Brown,PT00603,66,Other,2025-01-30,ER,G43.909,Not Met
+P008,Dr. Davis,PT01324,38,M,2024-07-31,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT01426,74,Other,2024-02-09,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT00367,61,M,2024-01-13,Follow-Up,M54.5,Not Met
+P002,Dr. Lee,PT00513,88,M,2024-02-03,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00187,54,F,2024-02-13,Follow-Up,F41.9,Met
+P007,Dr. Brown,PT01489,49,Other,2024-04-19,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00090,36,F,2024-06-12,ER,Z00.00,Not Met
+P003,Dr. Patel,PT00333,35,F,2024-01-06,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01496,72,M,2024-09-24,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT00416,85,F,2024-01-25,Follow-Up,E78.5,Met
+P008,Dr. Davis,PT01022,53,Other,2024-07-08,ER,Z00.00,Not Met
+P004,Dr. Johnson,PT00445,51,Other,2024-01-05,Follow-Up,K21.9,Met
+P002,Dr. Lee,PT01232,56,Other,2024-01-08,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00426,75,F,2024-08-01,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT00298,38,F,2024-01-12,Follow-Up,Z00.00,Met
+P002,Dr. Lee,PT00101,59,F,2024-10-15,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT01252,72,Other,2024-09-10,Follow-Up,Z00.00,Met
+P009,Dr. Garcia,PT00364,64,M,2024-04-11,Follow-Up,F41.9,Not Met
+P002,Dr. Lee,PT01574,6,M,2024-02-15,Annual Checkup,N39.0,Not Met
+P007,Dr. Brown,PT01128,67,F,2024-03-09,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00675,64,Other,2024-09-24,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00120,79,F,2024-03-11,Follow-Up,G43.909,Not Met
+P008,Dr. Davis,PT01483,84,Other,2024-04-17,Follow-Up,E78.5,Met
+P006,Dr. Martinez,PT00532,78,Other,2024-05-25,Follow-Up,Z00.00,Met
+P003,Dr. Patel,PT01259,56,Other,2024-01-14,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT01249,26,F,2024-02-28,Follow-Up,M54.5,Met
+P001,Dr. Smith,PT00953,94,Other,2024-12-26,Follow-Up,M54.5,Not Met
+P007,Dr. Brown,PT00848,51,F,2024-04-20,Annual Checkup,G43.909,Not Met
+P004,Dr. Johnson,PT00024,55,Other,2024-04-30,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT00631,85,M,2024-01-09,Follow-Up,F41.9,Not Met
+P002,Dr. Lee,PT01405,41,M,2024-03-17,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT00360,31,F,2024-01-06,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT00972,47,F,2025-03-03,Follow-Up,K21.9,Met
+P008,Dr. Davis,PT01100,42,M,2024-02-18,Annual Checkup,N39.0,Not Met
+P001,Dr. Smith,PT01068,29,M,2024-04-23,Follow-Up,F41.9,Not Met
+P001,Dr. Smith,PT00427,53,Other,2024-02-09,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT00575,56,F,2024-01-01,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01170,28,Other,2024-01-01,Annual Checkup,Z00.00,Met
+P005,Dr. Nguyen,PT01445,49,M,2024-07-13,Follow-Up,E78.5,Met
+P008,Dr. Davis,PT00487,41,M,2024-04-11,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT00359,21,F,2024-11-18,Annual Checkup,E11.9,Not Met
+P002,Dr. Lee,PT00909,57,Other,2024-03-01,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00390,58,M,2024-01-15,ER,G43.909,Met
+P006,Dr. Martinez,PT00294,41,F,2024-02-20,ER,G43.909,Not Met
+P003,Dr. Patel,PT00421,74,Other,2024-03-22,Annual Checkup,N39.0,Not Met
+P009,Dr. Garcia,PT00238,55,F,2024-05-25,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT00179,42,M,2024-03-06,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT00047,27,Other,2024-03-04,Follow-Up,M54.5,Met
+P004,Dr. Johnson,PT00587,59,M,2024-04-22,Follow-Up,K21.9,Not Met
+P005,Dr. Nguyen,PT00306,64,F,2024-02-14,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT01053,46,F,2024-02-05,Annual Checkup,F41.9,Met
+P005,Dr. Nguyen,PT00290,57,Other,2024-01-08,ER,Z00.00,Met
+P002,Dr. Lee,PT00638,84,Other,2024-01-15,ER,G43.909,Met
+P003,Dr. Patel,PT00060,71,M,2024-02-28,ER,E11.9,Met
+P001,Dr. Smith,PT00177,16,M,2024-01-16,Annual Checkup,Z00.00,Not Met
+P008,Dr. Davis,PT01263,42,M,2024-03-06,Annual Checkup,M54.5,Not Met
+P009,Dr. Garcia,PT00161,52,M,2024-01-11,Follow-Up,I10,Not Met
+P008,Dr. Davis,PT00200,56,M,2024-02-22,Annual Checkup,K21.9,Met
+P004,Dr. Johnson,PT00295,58,Other,2024-05-16,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT00666,62,M,2024-02-23,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00981,53,M,2024-05-01,ER,E78.5,Not Met
+P010,Dr. Wilson,PT01177,55,F,2024-10-20,Follow-Up,N39.0,Not Met
+P002,Dr. Lee,PT00668,72,Other,2024-06-03,Follow-Up,E78.5,Met
+P007,Dr. Brown,PT01210,60,M,2024-01-16,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT00787,34,F,2024-01-02,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT01162,56,M,2024-03-06,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT01515,52,Other,2024-04-13,Follow-Up,K21.9,Met
+P010,Dr. Wilson,PT00949,21,M,2024-01-06,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT00143,57,Other,2024-02-20,Annual Checkup,Z00.00,Not Met
+P007,Dr. Brown,PT00671,36,M,2024-06-05,Follow-Up,E11.9,Met
+P003,Dr. Patel,PT01190,72,Other,2024-05-21,ER,J45.909,Met
+P008,Dr. Davis,PT01089,62,M,2024-03-08,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT01396,33,M,2024-02-13,Annual Checkup,E78.5,Not Met
+P007,Dr. Brown,PT01471,71,M,2024-07-05,Telehealth,Z00.00,Met
+P009,Dr. Garcia,PT00828,80,F,2024-07-26,ER,E11.9,Met
+P009,Dr. Garcia,PT00109,50,F,2024-08-21,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT00064,52,F,2024-02-16,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT01458,69,M,2024-04-14,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT00973,78,F,2024-05-26,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT00855,25,F,2024-05-19,Annual Checkup,J45.909,Met
+P002,Dr. Lee,PT01328,35,F,2024-03-08,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00174,47,F,2024-01-19,Follow-Up,N39.0,Not Met
+P010,Dr. Wilson,PT00872,49,Other,2024-01-21,Annual Checkup,G43.909,Met
+P008,Dr. Davis,PT00788,69,M,2024-01-04,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT01021,78,Other,2024-02-19,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT01181,80,M,2024-01-09,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00232,24,Other,2024-05-15,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT01538,40,M,2024-04-21,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00182,32,F,2025-06-15,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT01188,44,M,2024-03-13,Follow-Up,F41.9,Met
+P001,Dr. Smith,PT00961,40,M,2024-03-20,Follow-Up,K21.9,Not Met
+P006,Dr. Martinez,PT00863,62,M,2024-01-04,Telehealth,E78.5,Met
+P001,Dr. Smith,PT01424,64,Other,2024-02-28,Follow-Up,Z00.00,Met
+P008,Dr. Davis,PT01185,55,F,2024-01-05,Follow-Up,E78.5,Not Met
+P010,Dr. Wilson,PT00056,53,M,2024-01-21,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00517,48,F,2024-01-03,Follow-Up,E78.5,Not Met
+P001,Dr. Smith,PT01519,50,F,2024-02-10,Follow-Up,Z00.00,Not Met
+P008,Dr. Davis,PT00758,83,F,2024-10-03,Annual Checkup,M54.5,Met
+P009,Dr. Garcia,PT00068,67,M,2024-04-20,Telehealth,J45.909,Met
+P003,Dr. Patel,PT01016,48,M,2024-07-29,Follow-Up,M54.5,Met
+P003,Dr. Patel,PT00432,53,Other,2024-02-28,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT01548,63,F,2024-02-19,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00976,33,Other,2024-04-06,ER,G43.909,Met
+P007,Dr. Brown,PT00972,57,M,2024-04-03,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00783,66,Other,2024-03-10,Annual Checkup,G43.909,Not Met
+P001,Dr. Smith,PT00200,64,Other,2024-02-13,Follow-Up,N39.0,Not Met
+P005,Dr. Nguyen,PT00687,40,M,2024-01-08,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00802,43,M,2024-02-20,Follow-Up,M54.5,Not Met
+P010,Dr. Wilson,PT01578,19,F,2024-04-14,Follow-Up,J45.909,Met
+P001,Dr. Smith,PT01378,68,F,2024-01-18,ER,E11.9,Met
+P009,Dr. Garcia,PT00213,92,Other,2024-03-21,Annual Checkup,M54.5,Not Met
+P005,Dr. Nguyen,PT00396,38,F,2024-03-02,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT01345,74,F,2024-04-26,Telehealth,I10,Not Met
+P002,Dr. Lee,PT00177,90,Other,2024-01-27,Annual Checkup,Z00.00,Not Met
+P003,Dr. Patel,PT00228,46,Other,2024-03-18,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT01309,53,M,2024-04-03,ER,E78.5,Not Met
+P006,Dr. Martinez,PT00528,59,F,2024-04-01,Follow-Up,E78.5,Not Met
+P007,Dr. Brown,PT00796,63,M,2024-09-01,Telehealth,E78.5,Not Met
+P005,Dr. Nguyen,PT00365,60,M,2024-01-16,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT01322,47,M,2024-07-08,Annual Checkup,G43.909,Not Met
+P004,Dr. Johnson,PT01258,66,Other,2024-12-11,Annual Checkup,K21.9,Not Met
+P002,Dr. Lee,PT00072,48,F,2024-01-20,Annual Checkup,E78.5,Not Met
+P001,Dr. Smith,PT01020,61,F,2024-03-20,Follow-Up,E11.9,Not Met
+P007,Dr. Brown,PT00546,54,F,2024-08-27,Follow-Up,N39.0,Not Met
+P009,Dr. Garcia,PT01450,23,M,2024-02-10,Annual Checkup,N39.0,Not Met
+P002,Dr. Lee,PT01107,77,F,2024-01-28,Annual Checkup,K21.9,Met
+P009,Dr. Garcia,PT00736,44,M,2024-03-26,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00749,79,Other,2024-03-22,ER,F41.9,Met
+P008,Dr. Davis,PT01558,74,M,2025-04-18,Follow-Up,J45.909,Not Met
+P007,Dr. Brown,PT01354,59,F,2024-03-03,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT00997,64,F,2024-04-12,ER,K21.9,Not Met
+P003,Dr. Patel,PT00074,66,F,2025-01-09,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00130,51,Other,2024-08-18,Follow-Up,K21.9,Met
+P008,Dr. Davis,PT00034,52,F,2024-03-10,Annual Checkup,F41.9,Not Met
+P001,Dr. Smith,PT00831,65,F,2024-04-28,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00306,2,Other,2024-11-09,Follow-Up,I10,Met
+P003,Dr. Patel,PT01002,54,Other,2024-05-19,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00030,48,F,2024-06-02,Follow-Up,E78.5,Not Met
+P002,Dr. Lee,PT00935,41,Other,2024-02-12,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00234,62,M,2024-02-23,Follow-Up,Z00.00,Met
+P004,Dr. Johnson,PT00873,43,M,2024-01-29,ER,N39.0,Met
+P010,Dr. Wilson,PT01118,70,F,2025-01-13,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT00356,72,M,2024-02-11,Annual Checkup,E78.5,Met
+P007,Dr. Brown,PT00345,64,Other,2024-01-02,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT00084,68,F,2024-06-10,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00033,64,M,2024-01-19,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01448,69,Other,2024-05-08,Follow-Up,E78.5,Met
+P008,Dr. Davis,PT01418,68,F,2024-06-23,Annual Checkup,E78.5,Met
+P007,Dr. Brown,PT00490,61,F,2024-01-12,Follow-Up,E11.9,Not Met
+P008,Dr. Davis,PT01254,74,F,2024-03-21,Follow-Up,E78.5,Met
+P001,Dr. Smith,PT01143,52,F,2024-03-03,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT00742,41,Other,2024-01-09,Follow-Up,K21.9,Not Met
+P004,Dr. Johnson,PT00567,40,F,2024-07-17,Annual Checkup,J45.909,Not Met
+P008,Dr. Davis,PT01019,49,F,2024-12-20,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00584,20,F,2024-01-10,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT00089,58,F,2024-03-24,Follow-Up,G43.909,Met
+P001,Dr. Smith,PT00994,66,Other,2024-01-07,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT01188,71,M,2024-01-10,Annual Checkup,F41.9,Met
+P002,Dr. Lee,PT00668,26,F,2024-02-01,Annual Checkup,N39.0,Not Met
+P007,Dr. Brown,PT00452,41,F,2024-02-09,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00297,69,F,2024-02-16,ER,K21.9,Met
+P006,Dr. Martinez,PT00280,51,M,2024-03-18,Follow-Up,F41.9,Not Met
+P004,Dr. Johnson,PT00688,66,F,2025-04-08,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00228,32,M,2024-04-21,Annual Checkup,J45.909,Not Met
+P004,Dr. Johnson,PT00605,79,Other,2024-01-16,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT01133,31,F,2024-09-20,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT01212,0,M,2024-04-15,ER,E78.5,Met
+P007,Dr. Brown,PT01508,58,F,2024-04-27,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00306,58,Other,2024-02-03,ER,N39.0,Not Met
+P001,Dr. Smith,PT00964,46,Other,2024-05-30,Follow-Up,E11.9,Met
+P007,Dr. Brown,PT00982,63,Other,2024-04-06,ER,K21.9,Met
+P002,Dr. Lee,PT01144,64,F,2024-03-29,Follow-Up,N39.0,Not Met
+P003,Dr. Patel,PT00735,62,M,2024-02-07,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT00332,45,Other,2024-03-23,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT00932,42,M,2024-04-29,Follow-Up,N39.0,Met
+P006,Dr. Martinez,PT01284,47,M,2024-01-07,Follow-Up,E11.9,Not Met
+P002,Dr. Lee,PT00789,40,Other,2024-01-01,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01430,75,Other,2024-03-26,Follow-Up,M54.5,Not Met
+P002,Dr. Lee,PT01271,49,M,2024-08-07,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT00106,57,F,2024-01-01,Annual Checkup,K21.9,Not Met
+P006,Dr. Martinez,PT00751,69,F,2024-02-15,Follow-Up,I10,Not Met
+P004,Dr. Johnson,PT00284,39,M,2024-01-13,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT01440,30,F,2024-08-09,Follow-Up,M54.5,Met
+P005,Dr. Nguyen,PT01032,40,Other,2024-02-15,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00927,59,M,2024-03-09,Follow-Up,I10,Met
+P009,Dr. Garcia,PT01390,58,Other,2024-10-15,ER,K21.9,Met
+P002,Dr. Lee,PT00386,62,M,2024-01-12,Annual Checkup,N39.0,Not Met
+P005,Dr. Nguyen,PT00158,53,F,2024-05-19,Annual Checkup,I10,Met
+P008,Dr. Davis,PT00309,11,F,2024-04-30,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT00271,52,M,2024-05-26,Annual Checkup,K21.9,Not Met
+P001,Dr. Smith,PT00598,72,F,2025-02-09,Annual Checkup,M54.5,Not Met
+P009,Dr. Garcia,PT01321,77,M,2024-06-20,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT00996,56,Other,2024-02-12,Follow-Up,G43.909,Not Met
+P008,Dr. Davis,PT00938,58,M,2024-01-14,Follow-Up,E78.5,Met
+P005,Dr. Nguyen,PT00465,66,M,2024-01-06,Annual Checkup,E78.5,Not Met
+P001,Dr. Smith,PT00304,76,M,2024-02-23,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT01458,55,Other,2024-03-09,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT00331,65,F,2024-03-14,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT00534,45,M,2024-02-25,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT00705,33,F,2024-01-07,Annual Checkup,G43.909,Not Met
+P009,Dr. Garcia,PT00618,46,F,2024-07-26,ER,N39.0,Not Met
+P003,Dr. Patel,PT00939,81,M,2024-08-15,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT01326,66,Other,2024-03-17,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT01366,34,F,2024-09-11,Follow-Up,K21.9,Met
+P002,Dr. Lee,PT01499,67,M,2024-04-22,ER,J45.909,Met
+P002,Dr. Lee,PT00631,35,F,2024-02-11,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT00669,61,F,2024-06-10,Follow-Up,M54.5,Met
+P004,Dr. Johnson,PT01572,38,M,2024-02-15,Annual Checkup,I10,Met
+P008,Dr. Davis,PT01387,33,Other,2024-05-29,Telehealth,G43.909,Met
+P008,Dr. Davis,PT00651,84,Other,2024-01-27,Follow-Up,E11.9,Not Met
+P006,Dr. Martinez,PT00815,49,F,2024-02-25,Follow-Up,N39.0,Met
+P006,Dr. Martinez,PT00025,65,M,2024-01-08,Annual Checkup,E78.5,Not Met
+P009,Dr. Garcia,PT00180,55,F,2024-02-07,Follow-Up,K21.9,Not Met
+P007,Dr. Brown,PT00907,36,M,2024-08-04,Annual Checkup,N39.0,Not Met
+P007,Dr. Brown,PT00286,50,Other,2024-03-22,Follow-Up,J45.909,Met
+P008,Dr. Davis,PT01076,37,M,2024-03-03,Annual Checkup,Z00.00,Not Met
+P002,Dr. Lee,PT00014,95,M,2024-01-02,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT00947,69,Other,2024-03-15,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00593,55,Other,2024-05-15,Annual Checkup,E78.5,Not Met
+P005,Dr. Nguyen,PT01012,64,Other,2024-02-14,Follow-Up,M54.5,Met
+P001,Dr. Smith,PT00316,67,M,2024-03-29,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00855,67,F,2025-03-23,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT01010,67,F,2024-01-16,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT00894,65,M,2024-02-07,Follow-Up,K21.9,Not Met
+P002,Dr. Lee,PT00765,56,Other,2024-02-21,Follow-Up,E11.9,Not Met
+P003,Dr. Patel,PT01192,82,F,2024-02-25,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00732,57,F,2024-08-13,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT00100,55,M,2024-01-03,Annual Checkup,I10,Met
+P003,Dr. Patel,PT01567,58,F,2024-06-30,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT01403,59,M,2024-03-14,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT00721,26,F,2024-01-09,Annual Checkup,G43.909,Met
+P008,Dr. Davis,PT00844,40,M,2024-02-01,ER,J45.909,Met
+P003,Dr. Patel,PT01031,53,F,2024-06-14,ER,G43.909,Met
+P009,Dr. Garcia,PT01090,25,Other,2024-03-18,Follow-Up,I10,Met
+P002,Dr. Lee,PT00239,55,F,2025-01-29,ER,K21.9,Met
+P006,Dr. Martinez,PT00285,59,M,2024-01-10,ER,Z00.00,Met
+P006,Dr. Martinez,PT00353,32,Other,2024-01-27,Annual Checkup,I10,Met
+P003,Dr. Patel,PT01410,43,F,2024-01-19,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT00871,78,Other,2024-04-13,Follow-Up,I10,Met
+P008,Dr. Davis,PT01552,65,M,2024-01-20,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT01215,63,F,2024-02-28,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT01368,75,F,2024-05-14,Follow-Up,I10,Not Met
+P004,Dr. Johnson,PT01204,40,F,2024-10-26,Annual Checkup,F41.9,Met
+P003,Dr. Patel,PT01529,32,M,2024-02-11,ER,F41.9,Met
+P009,Dr. Garcia,PT01600,72,Other,2024-05-27,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT01185,53,F,2024-01-08,Follow-Up,M54.5,Not Met
+P003,Dr. Patel,PT01545,39,Other,2024-01-18,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT01450,92,M,2025-01-15,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00371,26,M,2024-03-24,Telehealth,N39.0,Met
+P004,Dr. Johnson,PT00835,58,F,2024-05-16,Follow-Up,F41.9,Met
+P002,Dr. Lee,PT01065,51,F,2024-07-16,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT01479,48,F,2024-03-14,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00936,15,Other,2024-01-06,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT00596,82,M,2024-01-22,Annual Checkup,I10,Not Met
+P008,Dr. Davis,PT01391,29,M,2024-01-07,Annual Checkup,K21.9,Not Met
+P007,Dr. Brown,PT00898,50,Other,2024-08-10,Follow-Up,I10,Met
+P007,Dr. Brown,PT00821,47,Other,2025-01-23,Follow-Up,I10,Not Met
+P003,Dr. Patel,PT00133,65,M,2024-01-27,Telehealth,F41.9,Met
+P007,Dr. Brown,PT00252,26,F,2024-03-09,ER,K21.9,Met
+P010,Dr. Wilson,PT01216,63,M,2024-04-18,Follow-Up,N39.0,Met
+P010,Dr. Wilson,PT00829,58,M,2025-04-21,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00251,43,M,2024-01-26,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT00061,62,F,2024-06-18,Follow-Up,I10,Met
+P001,Dr. Smith,PT00367,55,M,2024-01-22,Follow-Up,F41.9,Met
+P010,Dr. Wilson,PT01277,87,F,2024-02-04,Follow-Up,G43.909,Not Met
+P008,Dr. Davis,PT00414,51,M,2024-05-02,Follow-Up,K21.9,Met
+P009,Dr. Garcia,PT00704,37,Other,2024-04-09,Follow-Up,E11.9,Not Met
+P002,Dr. Lee,PT00786,63,M,2024-06-26,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT00068,49,F,2024-01-02,Follow-Up,E78.5,Not Met
+P003,Dr. Patel,PT01007,54,M,2024-02-22,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01166,32,Other,2024-02-16,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT00963,65,M,2024-08-14,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00540,46,M,2024-03-08,Follow-Up,N39.0,Not Met
+P006,Dr. Martinez,PT01570,59,M,2024-01-04,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT00751,92,M,2024-01-16,ER,Z00.00,Met
+P006,Dr. Martinez,PT00780,50,F,2024-02-10,Annual Checkup,F41.9,Met
+P001,Dr. Smith,PT01355,68,F,2025-08-22,Annual Checkup,E78.5,Not Met
+P002,Dr. Lee,PT00625,51,F,2024-01-06,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT00944,43,Other,2024-02-29,ER,Z00.00,Met
+P007,Dr. Brown,PT00547,78,F,2024-06-17,Follow-Up,Z00.00,Met
+P006,Dr. Martinez,PT00774,21,Other,2024-07-04,Annual Checkup,Z00.00,Met
+P008,Dr. Davis,PT00205,73,Other,2024-02-04,Follow-Up,F41.9,Met
+P006,Dr. Martinez,PT00342,19,Other,2024-05-08,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01098,71,F,2024-02-02,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT00824,55,F,2024-01-30,Follow-Up,I10,Not Met
+P010,Dr. Wilson,PT00195,37,Other,2024-01-05,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT00974,47,M,2024-12-26,Annual Checkup,I10,Met
+P005,Dr. Nguyen,PT01034,67,M,2024-04-14,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT00824,90,M,2024-03-28,Follow-Up,K21.9,Not Met
+P009,Dr. Garcia,PT00370,26,F,2024-06-19,Follow-Up,G43.909,Not Met
+P010,Dr. Wilson,PT01023,38,F,2024-09-26,Follow-Up,K21.9,Met
+P009,Dr. Garcia,PT01259,31,M,2024-12-17,ER,E11.9,Met
+P006,Dr. Martinez,PT00948,51,F,2024-06-30,Annual Checkup,E78.5,Not Met
+P007,Dr. Brown,PT00653,71,F,2024-03-18,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT01324,28,F,2024-04-17,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT00233,54,F,2024-01-25,Annual Checkup,M54.5,Not Met
+P005,Dr. Nguyen,PT00951,70,M,2024-01-28,Follow-Up,N39.0,Met
+P001,Dr. Smith,PT00414,47,F,2024-01-09,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01349,8,Other,2024-07-18,Annual Checkup,E11.9,Not Met
+P008,Dr. Davis,PT00041,58,F,2024-08-04,ER,I10,Met
+P005,Dr. Nguyen,PT00131,77,M,2024-06-25,ER,I10,Met
+P003,Dr. Patel,PT00484,35,F,2024-05-07,Follow-Up,G43.909,Not Met
+P009,Dr. Garcia,PT01361,22,Other,2024-03-07,ER,G43.909,Met
+P002,Dr. Lee,PT00488,60,Other,2024-01-05,Annual Checkup,F41.9,Met
+P010,Dr. Wilson,PT01510,61,M,2024-01-01,ER,M54.5,Not Met
+P004,Dr. Johnson,PT00296,46,F,2024-03-05,Annual Checkup,E78.5,Met
+P005,Dr. Nguyen,PT01208,42,F,2025-03-09,Annual Checkup,F41.9,Met
+P002,Dr. Lee,PT00649,55,Other,2024-01-31,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT00744,35,M,2024-02-01,Follow-Up,E78.5,Met
+P010,Dr. Wilson,PT00072,35,Other,2024-01-01,Follow-Up,E11.9,Not Met
+P004,Dr. Johnson,PT00519,67,Other,2024-06-11,Annual Checkup,F41.9,Not Met
+P002,Dr. Lee,PT01096,34,F,2024-08-14,ER,N39.0,Met
+P007,Dr. Brown,PT00524,23,M,2024-02-17,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT00899,42,Other,2024-05-29,Annual Checkup,N39.0,Not Met
+P005,Dr. Nguyen,PT00165,46,M,2024-02-25,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT01470,63,M,2024-10-05,ER,I10,Not Met
+P005,Dr. Nguyen,PT01037,44,F,2024-04-17,Annual Checkup,Z00.00,Not Met
+P009,Dr. Garcia,PT01511,80,M,2024-05-09,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT01291,56,M,2024-05-28,Follow-Up,J45.909,Met
+P004,Dr. Johnson,PT01287,40,M,2024-01-22,Annual Checkup,I10,Met
+P004,Dr. Johnson,PT01058,62,Other,2024-12-30,Telehealth,J45.909,Not Met
+P007,Dr. Brown,PT00655,80,M,2024-01-06,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT00671,66,M,2024-02-12,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT00773,27,Other,2024-05-30,Annual Checkup,E11.9,Not Met
+P010,Dr. Wilson,PT01284,48,F,2024-03-27,ER,K21.9,Met
+P003,Dr. Patel,PT00102,59,M,2024-03-26,Follow-Up,Z00.00,Met
+P002,Dr. Lee,PT00754,65,F,2024-07-29,ER,I10,Met
+P009,Dr. Garcia,PT00892,51,M,2024-05-23,ER,K21.9,Met
+P004,Dr. Johnson,PT00391,49,M,2024-10-31,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00424,87,Other,2024-05-22,Annual Checkup,E78.5,Not Met
+P004,Dr. Johnson,PT00857,66,F,2024-02-08,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00483,62,Other,2024-07-16,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT00176,44,F,2024-02-19,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01407,35,F,2025-04-05,Follow-Up,N39.0,Not Met
+P005,Dr. Nguyen,PT00150,62,F,2024-06-04,Follow-Up,E11.9,Met
+P004,Dr. Johnson,PT00965,69,M,2024-04-09,Telehealth,Z00.00,Not Met
+P001,Dr. Smith,PT00011,54,M,2024-02-27,Follow-Up,N39.0,Met
+P007,Dr. Brown,PT01375,67,M,2024-01-22,Annual Checkup,G43.909,Met
+P003,Dr. Patel,PT00534,67,F,2024-02-28,Follow-Up,F41.9,Not Met
+P003,Dr. Patel,PT00184,70,M,2024-01-04,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00642,27,F,2024-05-26,Telehealth,K21.9,Not Met
+P005,Dr. Nguyen,PT01532,48,M,2024-07-22,ER,E78.5,Not Met
+P005,Dr. Nguyen,PT01256,64,M,2024-01-07,Follow-Up,N39.0,Not Met
+P006,Dr. Martinez,PT01510,55,M,2024-03-25,Follow-Up,J45.909,Not Met
+P008,Dr. Davis,PT00109,67,F,2024-01-24,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT00533,62,F,2024-07-12,Follow-Up,N39.0,Met
+P008,Dr. Davis,PT00084,16,M,2024-01-17,Annual Checkup,G43.909,Met
+P008,Dr. Davis,PT00231,74,Other,2024-08-28,ER,I10,Met
+P004,Dr. Johnson,PT00582,46,F,2024-02-11,ER,G43.909,Not Met
+P010,Dr. Wilson,PT01359,39,Other,2024-09-03,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT00370,74,M,2024-02-04,ER,M54.5,Not Met
+P002,Dr. Lee,PT00674,66,F,2024-04-27,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00218,76,M,2024-10-10,Annual Checkup,I10,Met
+P008,Dr. Davis,PT00930,59,Other,2024-01-02,Telehealth,Z00.00,Not Met
+P006,Dr. Martinez,PT00090,48,Other,2024-04-05,Follow-Up,K21.9,Met
+P010,Dr. Wilson,PT00265,57,F,2024-02-10,ER,E78.5,Met
+P001,Dr. Smith,PT01524,36,F,2024-04-26,Follow-Up,Z00.00,Met
+P007,Dr. Brown,PT00523,30,F,2024-02-18,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT00334,43,M,2024-01-09,Follow-Up,E78.5,Not Met
+P003,Dr. Patel,PT00247,82,M,2024-07-02,Annual Checkup,N39.0,Not Met
+P005,Dr. Nguyen,PT01403,45,Other,2024-05-18,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT00410,24,M,2024-02-18,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT01230,52,M,2024-12-12,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00382,45,M,2024-05-03,Follow-Up,I10,Met
+P006,Dr. Martinez,PT00950,75,Other,2024-01-27,Annual Checkup,J45.909,Not Met
+P009,Dr. Garcia,PT01290,81,Other,2024-03-06,Follow-Up,E78.5,Met
+P002,Dr. Lee,PT00979,47,M,2024-02-09,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00510,59,Other,2024-02-08,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00093,61,Other,2024-01-09,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT01354,54,Other,2024-03-28,Follow-Up,E78.5,Met
+P010,Dr. Wilson,PT00168,50,Other,2024-06-09,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT00805,38,F,2024-05-26,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT01552,21,Other,2024-03-01,Annual Checkup,E78.5,Met
+P003,Dr. Patel,PT00433,38,F,2024-02-06,Annual Checkup,Z00.00,Met
+P002,Dr. Lee,PT00889,53,Other,2024-02-07,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT01344,28,M,2024-02-10,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT01487,58,M,2024-04-21,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00620,56,F,2024-01-10,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT01426,45,F,2024-04-19,ER,M54.5,Met
+P003,Dr. Patel,PT01331,50,F,2024-04-27,Annual Checkup,G43.909,Met
+P005,Dr. Nguyen,PT01577,31,M,2024-01-02,Annual Checkup,N39.0,Met
+P003,Dr. Patel,PT00313,69,Other,2025-02-06,Follow-Up,K21.9,Met
+P008,Dr. Davis,PT01199,69,F,2024-05-27,Annual Checkup,Z00.00,Not Met
+P007,Dr. Brown,PT00105,34,M,2024-04-22,Annual Checkup,N39.0,Not Met
+P008,Dr. Davis,PT01510,34,Other,2024-04-19,Follow-Up,G43.909,Not Met
+P001,Dr. Smith,PT00999,38,M,2024-08-29,Annual Checkup,Z00.00,Not Met
+P008,Dr. Davis,PT00475,64,Other,2024-01-28,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT01134,61,F,2024-04-16,Annual Checkup,N39.0,Not Met
+P002,Dr. Lee,PT01014,73,Other,2024-03-03,ER,F41.9,Met
+P007,Dr. Brown,PT00043,76,F,2024-01-02,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT00476,27,Other,2024-03-12,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT00269,64,M,2025-01-14,Follow-Up,N39.0,Not Met
+P006,Dr. Martinez,PT00968,75,F,2024-01-26,Follow-Up,E78.5,Not Met
+P002,Dr. Lee,PT01367,48,M,2024-05-13,Annual Checkup,M54.5,Met
+P008,Dr. Davis,PT00207,54,M,2024-01-12,ER,K21.9,Met
+P004,Dr. Johnson,PT01141,51,F,2024-06-14,Telehealth,F41.9,Not Met
+P006,Dr. Martinez,PT01387,52,F,2024-02-05,Annual Checkup,G43.909,Met
+P002,Dr. Lee,PT00692,69,M,2024-03-09,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00997,86,M,2024-05-01,Telehealth,F41.9,Not Met
+P009,Dr. Garcia,PT00548,79,F,2024-02-03,ER,G43.909,Met
+P002,Dr. Lee,PT01447,45,F,2024-01-27,ER,K21.9,Not Met
+P002,Dr. Lee,PT00217,59,Other,2024-09-08,Follow-Up,I10,Not Met
+P001,Dr. Smith,PT01039,40,F,2024-02-07,Annual Checkup,I10,Not Met
+P006,Dr. Martinez,PT00322,42,Other,2024-02-04,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT01501,53,F,2024-06-07,Annual Checkup,F41.9,Met
+P003,Dr. Patel,PT00252,42,F,2024-04-21,Annual Checkup,N39.0,Not Met
+P001,Dr. Smith,PT00503,44,M,2024-12-29,Annual Checkup,G43.909,Met
+P005,Dr. Nguyen,PT00763,59,Other,2024-08-06,Follow-Up,F41.9,Met
+P004,Dr. Johnson,PT00311,63,Other,2024-11-19,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT00847,63,M,2024-04-04,ER,G43.909,Not Met
+P006,Dr. Martinez,PT00061,63,M,2024-06-11,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT00143,32,F,2024-06-09,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00889,41,F,2024-02-25,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT01177,55,F,2024-10-31,Telehealth,G43.909,Not Met
+P007,Dr. Brown,PT00824,74,Other,2024-02-07,Follow-Up,E78.5,Not Met
+P006,Dr. Martinez,PT00705,95,F,2024-02-25,ER,G43.909,Not Met
+P003,Dr. Patel,PT01435,60,M,2024-07-04,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT01267,67,Other,2024-03-13,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01589,30,F,2024-05-26,ER,I10,Met
+P006,Dr. Martinez,PT00799,67,Other,2024-03-07,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT00582,90,F,2024-11-26,Annual Checkup,G43.909,Met
+P006,Dr. Martinez,PT01551,41,Other,2024-01-08,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT01214,45,M,2024-03-11,Annual Checkup,E78.5,Not Met
+P009,Dr. Garcia,PT00227,70,Other,2024-01-03,Annual Checkup,F41.9,Met
+P009,Dr. Garcia,PT00726,55,F,2024-01-07,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT01510,20,F,2024-03-22,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT01159,46,Other,2024-05-07,ER,G43.909,Not Met
+P004,Dr. Johnson,PT00718,80,M,2024-02-06,Annual Checkup,Z00.00,Not Met
+P007,Dr. Brown,PT01065,49,Other,2024-01-09,Annual Checkup,F41.9,Met
+P004,Dr. Johnson,PT01595,49,M,2024-01-25,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00168,69,F,2024-07-20,Annual Checkup,J45.909,Met
+P008,Dr. Davis,PT00160,61,M,2024-05-18,Follow-Up,N39.0,Not Met
+P009,Dr. Garcia,PT01596,49,M,2024-02-14,ER,Z00.00,Met
+P007,Dr. Brown,PT00902,43,Other,2024-02-04,ER,K21.9,Not Met
+P007,Dr. Brown,PT00334,95,F,2024-02-22,Follow-Up,K21.9,Not Met
+P003,Dr. Patel,PT01443,77,Other,2024-02-22,ER,I10,Met
+P008,Dr. Davis,PT00970,63,F,2024-02-14,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT01233,64,M,2024-10-21,Annual Checkup,F41.9,Met
+P001,Dr. Smith,PT01071,52,F,2024-02-22,Annual Checkup,E78.5,Not Met
+P005,Dr. Nguyen,PT00603,60,M,2024-03-25,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT00864,50,F,2024-04-06,ER,E78.5,Not Met
+P004,Dr. Johnson,PT00375,39,Other,2024-03-24,Annual Checkup,I10,Met
+P002,Dr. Lee,PT00092,61,M,2024-05-15,Annual Checkup,E78.5,Met
+P006,Dr. Martinez,PT00773,49,M,2024-08-06,ER,Z00.00,Met
+P003,Dr. Patel,PT01034,62,Other,2024-03-10,Annual Checkup,K21.9,Met
+P003,Dr. Patel,PT01491,65,M,2024-04-23,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00794,63,F,2024-01-24,ER,F41.9,Met
+P008,Dr. Davis,PT01508,38,M,2024-05-22,Follow-Up,J45.909,Not Met
+P010,Dr. Wilson,PT01291,47,Other,2024-01-22,Annual Checkup,I10,Not Met
+P002,Dr. Lee,PT00395,49,Other,2024-01-01,Follow-Up,E11.9,Not Met
+P009,Dr. Garcia,PT00388,72,M,2024-03-27,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT00369,71,F,2024-01-22,Annual Checkup,M54.5,Met
+P010,Dr. Wilson,PT00910,42,F,2024-01-14,ER,Z00.00,Met
+P010,Dr. Wilson,PT00093,32,M,2024-01-31,ER,E11.9,Met
+P003,Dr. Patel,PT00850,95,F,2024-02-03,ER,F41.9,Met
+P002,Dr. Lee,PT00235,62,F,2024-01-08,Follow-Up,E78.5,Met
+P005,Dr. Nguyen,PT01574,30,F,2024-01-30,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT01259,44,M,2025-01-20,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT00656,73,F,2024-03-05,Annual Checkup,F41.9,Met
+P002,Dr. Lee,PT00107,92,F,2024-03-08,Annual Checkup,Z00.00,Met
+P008,Dr. Davis,PT01042,88,Other,2024-05-25,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00952,62,Other,2024-01-23,Annual Checkup,K21.9,Met
+P004,Dr. Johnson,PT00039,7,M,2024-09-02,Follow-Up,Z00.00,Not Met
+P004,Dr. Johnson,PT01563,55,Other,2024-04-29,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00914,36,F,2024-04-21,ER,G43.909,Met
+P003,Dr. Patel,PT00765,56,Other,2024-01-15,Telehealth,M54.5,Met
+P007,Dr. Brown,PT01137,38,M,2024-05-21,Annual Checkup,K21.9,Not Met
+P010,Dr. Wilson,PT00593,47,Other,2024-01-28,Telehealth,E11.9,Met
+P008,Dr. Davis,PT00560,70,Other,2024-01-28,Annual Checkup,N39.0,Not Met
+P004,Dr. Johnson,PT01199,50,Other,2024-03-26,Annual Checkup,J45.909,Not Met
+P010,Dr. Wilson,PT00144,49,M,2024-07-07,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT00573,54,M,2024-01-09,Annual Checkup,G43.909,Not Met
+P006,Dr. Martinez,PT01397,95,M,2024-04-28,Follow-Up,K21.9,Met
+P006,Dr. Martinez,PT00700,34,F,2024-05-20,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT01324,60,F,2024-08-05,Follow-Up,E11.9,Not Met
+P003,Dr. Patel,PT00847,86,Other,2024-07-25,ER,K21.9,Not Met
+P009,Dr. Garcia,PT00167,54,Other,2024-02-18,Follow-Up,G43.909,Met
+P008,Dr. Davis,PT01377,77,F,2024-07-07,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT00793,31,F,2024-08-19,ER,E11.9,Met
+P006,Dr. Martinez,PT00396,51,M,2024-09-14,Annual Checkup,E11.9,Not Met
+P006,Dr. Martinez,PT00393,40,F,2024-02-28,ER,E78.5,Not Met
+P004,Dr. Johnson,PT00480,53,M,2024-07-14,Telehealth,E11.9,Met
+P010,Dr. Wilson,PT00429,54,F,2024-01-09,Annual Checkup,N39.0,Met
+P005,Dr. Nguyen,PT01166,56,Other,2024-09-08,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT01377,70,Other,2025-02-17,Follow-Up,J45.909,Met
+P003,Dr. Patel,PT01528,14,F,2024-01-09,Annual Checkup,Z00.00,Not Met
+P009,Dr. Garcia,PT01493,44,M,2024-02-26,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT01259,58,M,2024-07-14,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT01313,21,Other,2024-01-30,ER,E11.9,Not Met
+P006,Dr. Martinez,PT00886,66,M,2024-02-21,Annual Checkup,G43.909,Met
+P006,Dr. Martinez,PT01060,43,F,2024-02-25,ER,M54.5,Met
+P007,Dr. Brown,PT01091,51,M,2024-03-15,Annual Checkup,N39.0,Met
+P002,Dr. Lee,PT01172,71,F,2024-05-28,Telehealth,M54.5,Not Met
+P007,Dr. Brown,PT00153,77,F,2024-01-02,Annual Checkup,F41.9,Met
+P002,Dr. Lee,PT00058,66,M,2024-03-20,Annual Checkup,E11.9,Met
+P006,Dr. Martinez,PT00513,34,F,2024-01-01,Annual Checkup,M54.5,Not Met
+P001,Dr. Smith,PT00684,65,Other,2024-04-05,Follow-Up,I10,Not Met
+P010,Dr. Wilson,PT00899,67,F,2024-01-09,Follow-Up,Z00.00,Met
+P001,Dr. Smith,PT00069,63,M,2024-07-01,Annual Checkup,I10,Not Met
+P001,Dr. Smith,PT00906,81,F,2024-06-16,Annual Checkup,N39.0,Met
+P001,Dr. Smith,PT01146,56,F,2024-01-19,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT01541,80,M,2024-05-13,Annual Checkup,Z00.00,Not Met
+P010,Dr. Wilson,PT00022,80,M,2024-01-23,Annual Checkup,N39.0,Not Met
+P010,Dr. Wilson,PT00208,67,M,2024-01-27,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT01204,60,F,2024-10-13,Annual Checkup,E11.9,Not Met
+P002,Dr. Lee,PT01215,63,F,2024-06-19,ER,J45.909,Met
+P005,Dr. Nguyen,PT00728,85,M,2024-09-20,Annual Checkup,Z00.00,Met
+P004,Dr. Johnson,PT00282,74,F,2024-04-13,Annual Checkup,E78.5,Not Met
+P009,Dr. Garcia,PT01335,36,M,2024-03-18,Annual Checkup,G43.909,Not Met
+P003,Dr. Patel,PT00962,62,M,2024-05-31,Follow-Up,E78.5,Met
+P001,Dr. Smith,PT01061,39,Other,2024-02-15,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT01146,43,F,2024-02-03,Annual Checkup,M54.5,Not Met
+P004,Dr. Johnson,PT00141,48,M,2024-10-13,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT01229,29,Other,2024-03-25,Annual Checkup,Z00.00,Not Met
+P006,Dr. Martinez,PT01262,38,M,2024-07-26,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT01016,82,F,2024-05-09,ER,M54.5,Not Met
+P008,Dr. Davis,PT01278,43,F,2024-05-21,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00421,70,M,2024-02-06,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT00733,58,F,2024-02-17,Follow-Up,J45.909,Met
+P004,Dr. Johnson,PT01293,64,Other,2024-02-07,ER,F41.9,Met
+P001,Dr. Smith,PT00408,65,F,2024-01-30,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT00696,37,Other,2024-04-18,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT00208,70,F,2024-07-21,ER,J45.909,Met
+P002,Dr. Lee,PT00694,32,F,2024-06-29,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT01354,42,F,2024-01-12,ER,Z00.00,Not Met
+P002,Dr. Lee,PT00243,65,F,2024-05-24,ER,J45.909,Not Met
+P004,Dr. Johnson,PT01091,36,M,2024-01-04,Follow-Up,F41.9,Not Met
+P004,Dr. Johnson,PT00095,19,Other,2024-02-06,Follow-Up,G43.909,Met
+P003,Dr. Patel,PT00672,61,F,2024-01-05,Annual Checkup,E78.5,Not Met
+P009,Dr. Garcia,PT01197,26,M,2024-05-11,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT00133,67,F,2024-09-19,Follow-Up,G43.909,Met
+P009,Dr. Garcia,PT00951,49,F,2024-02-17,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT01466,61,M,2024-02-04,Annual Checkup,Z00.00,Met
+P010,Dr. Wilson,PT01331,60,F,2024-04-13,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00811,68,F,2024-08-22,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT00522,66,Other,2025-12-26,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00721,36,F,2024-01-03,Follow-Up,K21.9,Met
+P006,Dr. Martinez,PT00873,50,M,2024-02-23,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00650,61,M,2024-02-15,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT01322,80,F,2024-05-07,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT01051,66,Other,2024-06-21,Follow-Up,E78.5,Not Met
+P002,Dr. Lee,PT00243,78,F,2024-01-05,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT01383,61,M,2024-04-09,Annual Checkup,E78.5,Met
+P010,Dr. Wilson,PT00283,74,Other,2024-04-27,Follow-Up,E78.5,Met
+P005,Dr. Nguyen,PT00578,59,M,2024-04-14,Follow-Up,N39.0,Not Met
+P010,Dr. Wilson,PT01552,73,Other,2025-07-15,Annual Checkup,G43.909,Not Met
+P003,Dr. Patel,PT00815,48,F,2024-05-27,Annual Checkup,M54.5,Met
+P009,Dr. Garcia,PT01203,83,Other,2024-02-29,Follow-Up,K21.9,Met
+P002,Dr. Lee,PT00642,63,F,2024-11-12,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT01144,29,F,2024-11-13,Annual Checkup,Z00.00,Not Met
+P005,Dr. Nguyen,PT01512,61,F,2024-01-29,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT00872,17,Other,2025-10-13,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00048,66,Other,2024-04-17,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT01164,70,Other,2024-01-07,Follow-Up,Z00.00,Not Met
+P007,Dr. Brown,PT00781,90,F,2024-05-15,ER,I10,Met
+P004,Dr. Johnson,PT00973,45,F,2024-02-26,Annual Checkup,K21.9,Not Met
+P005,Dr. Nguyen,PT00191,90,F,2024-05-23,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT01001,55,F,2024-05-05,Annual Checkup,I10,Not Met
+P007,Dr. Brown,PT00582,41,F,2024-05-01,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00755,46,Other,2024-04-19,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00801,65,F,2024-03-13,Telehealth,J45.909,Met
+P008,Dr. Davis,PT01522,39,F,2024-05-12,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00635,48,M,2024-01-03,ER,K21.9,Met
+P010,Dr. Wilson,PT00636,61,Other,2024-06-30,Annual Checkup,K21.9,Met
+P001,Dr. Smith,PT00293,82,M,2024-08-06,Annual Checkup,N39.0,Not Met
+P004,Dr. Johnson,PT01077,70,M,2024-07-13,ER,K21.9,Met
+P010,Dr. Wilson,PT00081,55,Other,2024-03-21,Annual Checkup,K21.9,Met
+P005,Dr. Nguyen,PT00801,65,Other,2024-03-02,ER,J45.909,Met
+P003,Dr. Patel,PT01266,59,Other,2024-02-08,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT01431,34,Other,2024-11-01,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT00561,86,Other,2024-02-22,Follow-Up,I10,Met
+P004,Dr. Johnson,PT01011,83,M,2024-01-07,Telehealth,G43.909,Met
+P006,Dr. Martinez,PT00157,53,F,2024-01-11,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT00518,46,F,2024-04-22,Follow-Up,K21.9,Met
+P008,Dr. Davis,PT00781,34,M,2024-08-26,Follow-Up,M54.5,Met
+P001,Dr. Smith,PT00514,66,F,2024-09-17,Follow-Up,J45.909,Met
+P008,Dr. Davis,PT00993,66,M,2024-02-10,Annual Checkup,G43.909,Not Met
+P008,Dr. Davis,PT00288,40,M,2024-07-13,ER,J45.909,Met
+P001,Dr. Smith,PT01244,59,F,2025-03-11,Annual Checkup,I10,Met
+P007,Dr. Brown,PT00345,69,F,2024-03-16,Follow-Up,E11.9,Not Met
+P003,Dr. Patel,PT00903,45,M,2025-03-20,Annual Checkup,E11.9,Not Met
+P009,Dr. Garcia,PT00443,51,M,2024-07-22,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT00800,51,Other,2024-01-09,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT01582,41,M,2024-01-29,Follow-Up,M54.5,Met
+P004,Dr. Johnson,PT00410,51,F,2024-02-07,Annual Checkup,E11.9,Not Met
+P006,Dr. Martinez,PT00394,27,Other,2024-01-13,Follow-Up,M54.5,Not Met
+P002,Dr. Lee,PT01361,50,F,2025-03-09,Follow-Up,E11.9,Met
+P002,Dr. Lee,PT00670,50,M,2024-06-19,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT00810,53,M,2024-02-09,Annual Checkup,M54.5,Met
+P006,Dr. Martinez,PT00356,63,F,2024-07-11,Annual Checkup,F41.9,Met
+P004,Dr. Johnson,PT00940,33,F,2024-02-01,Annual Checkup,E78.5,Not Met
+P006,Dr. Martinez,PT00090,36,F,2024-01-17,ER,N39.0,Met
+P010,Dr. Wilson,PT01024,41,F,2024-05-14,Follow-Up,Z00.00,Met
+P002,Dr. Lee,PT01229,31,M,2024-01-08,Telehealth,N39.0,Met
+P003,Dr. Patel,PT00681,65,F,2024-01-20,Follow-Up,F41.9,Not Met
+P008,Dr. Davis,PT00139,44,M,2024-02-20,Annual Checkup,Z00.00,Met
+P009,Dr. Garcia,PT01312,54,Other,2024-02-13,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT00477,39,F,2024-04-09,Follow-Up,I10,Met
+P007,Dr. Brown,PT01551,48,F,2024-04-14,Follow-Up,E11.9,Met
+P008,Dr. Davis,PT00608,60,F,2024-03-25,Annual Checkup,M54.5,Not Met
+P004,Dr. Johnson,PT01486,61,Other,2024-02-08,Telehealth,K21.9,Not Met
+P006,Dr. Martinez,PT00275,36,M,2024-03-21,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT01328,53,M,2024-02-13,Follow-Up,M54.5,Not Met
+P006,Dr. Martinez,PT00702,40,F,2024-07-26,Annual Checkup,E11.9,Not Met
+P004,Dr. Johnson,PT01408,52,Other,2024-03-14,Follow-Up,Z00.00,Not Met
+P009,Dr. Garcia,PT00659,43,F,2024-06-03,Annual Checkup,E11.9,Met
+P008,Dr. Davis,PT00144,87,F,2024-06-29,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT00188,69,F,2024-08-25,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00873,62,Other,2024-08-07,Annual Checkup,J45.909,Not Met
+P004,Dr. Johnson,PT00869,20,F,2025-06-30,Follow-Up,E78.5,Met
+P008,Dr. Davis,PT01302,49,F,2024-01-27,Annual Checkup,K21.9,Met
+P006,Dr. Martinez,PT00816,70,M,2024-03-21,Annual Checkup,K21.9,Met
+P010,Dr. Wilson,PT01506,54,M,2024-03-20,Follow-Up,K21.9,Met
+P007,Dr. Brown,PT00876,85,F,2024-08-06,Follow-Up,E78.5,Not Met
+P003,Dr. Patel,PT01133,72,Other,2024-03-03,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00581,48,M,2024-02-17,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT01465,83,M,2024-01-17,Annual Checkup,M54.5,Met
+P009,Dr. Garcia,PT01496,50,Other,2024-01-27,Annual Checkup,N39.0,Not Met
+P007,Dr. Brown,PT01521,89,M,2024-03-21,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT00146,84,M,2024-05-04,ER,I10,Met
+P010,Dr. Wilson,PT00333,60,F,2024-02-25,Follow-Up,E78.5,Not Met
+P006,Dr. Martinez,PT01044,27,Other,2024-05-10,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00869,58,Other,2024-01-25,Annual Checkup,K21.9,Met
+P006,Dr. Martinez,PT01293,35,Other,2024-02-09,Follow-Up,J45.909,Met
+P008,Dr. Davis,PT01395,44,F,2024-07-28,Annual Checkup,Z00.00,Not Met
+P003,Dr. Patel,PT00026,45,F,2024-02-10,Follow-Up,N39.0,Met
+P010,Dr. Wilson,PT00165,35,Other,2024-02-26,ER,N39.0,Met
+P007,Dr. Brown,PT00518,58,Other,2024-07-10,Annual Checkup,G43.909,Not Met
+P007,Dr. Brown,PT01201,42,M,2024-04-07,Follow-Up,I10,Met
+P010,Dr. Wilson,PT01591,50,M,2024-08-11,ER,E78.5,Not Met
+P007,Dr. Brown,PT01432,45,M,2024-05-14,Annual Checkup,J45.909,Not Met
+P001,Dr. Smith,PT00199,63,F,2024-01-30,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT01502,62,M,2024-02-04,Annual Checkup,F41.9,Met
+P003,Dr. Patel,PT00406,49,M,2024-02-06,Annual Checkup,I10,Met
+P004,Dr. Johnson,PT00381,64,F,2024-06-15,Annual Checkup,J45.909,Not Met
+P004,Dr. Johnson,PT00532,77,M,2024-01-20,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00164,17,M,2024-01-12,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00061,44,Other,2024-03-20,Annual Checkup,K21.9,Not Met
+P002,Dr. Lee,PT00020,38,F,2024-02-02,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT00199,42,F,2024-10-13,Follow-Up,E11.9,Met
+P009,Dr. Garcia,PT01560,14,M,2024-06-20,ER,K21.9,Not Met
+P010,Dr. Wilson,PT00880,16,M,2024-01-21,Annual Checkup,F41.9,Not Met
+P004,Dr. Johnson,PT00740,5,Other,2024-04-19,Annual Checkup,Z00.00,Met
+P006,Dr. Martinez,PT00677,46,F,2026-07-15,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00053,45,Other,2024-07-29,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT00755,79,M,2024-01-23,Follow-Up,K21.9,Met
+P004,Dr. Johnson,PT00007,57,Other,2024-04-24,Telehealth,F41.9,Met
+P006,Dr. Martinez,PT00094,16,Other,2024-10-16,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT00820,64,Other,2024-01-07,Follow-Up,I10,Met
+P008,Dr. Davis,PT01349,95,Other,2024-01-05,ER,N39.0,Met
+P004,Dr. Johnson,PT01459,17,F,2024-08-07,ER,Z00.00,Not Met
+P009,Dr. Garcia,PT00066,86,F,2024-01-22,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00957,54,F,2024-02-02,ER,I10,Met
+P009,Dr. Garcia,PT00494,47,F,2024-01-07,Annual Checkup,I10,Met
+P001,Dr. Smith,PT00329,44,M,2024-04-22,ER,E78.5,Met
+P005,Dr. Nguyen,PT01364,60,M,2024-02-09,Telehealth,I10,Met
+P009,Dr. Garcia,PT01298,47,Other,2024-07-13,Annual Checkup,F41.9,Not Met
+P010,Dr. Wilson,PT01570,34,Other,2024-02-29,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT01340,45,Other,2024-06-26,Follow-Up,N39.0,Not Met
+P004,Dr. Johnson,PT00531,61,F,2024-02-02,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00386,67,Other,2024-11-13,ER,Z00.00,Met
+P006,Dr. Martinez,PT00779,88,Other,2024-02-28,Follow-Up,E78.5,Met
+P009,Dr. Garcia,PT00389,56,M,2024-06-28,Telehealth,F41.9,Not Met
+P003,Dr. Patel,PT01065,78,Other,2024-02-02,Follow-Up,M54.5,Met
+P001,Dr. Smith,PT01103,51,M,2025-01-25,Annual Checkup,E78.5,Not Met
+P008,Dr. Davis,PT01393,53,M,2024-05-12,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT01227,52,M,2024-04-23,Annual Checkup,I10,Met
+P010,Dr. Wilson,PT00980,58,Other,2024-05-16,ER,K21.9,Met
+P007,Dr. Brown,PT00121,70,M,2024-12-18,Annual Checkup,M54.5,Not Met
+P004,Dr. Johnson,PT01435,46,Other,2024-09-16,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00613,38,Other,2024-02-09,ER,J45.909,Not Met
+P009,Dr. Garcia,PT00804,72,M,2025-01-31,Annual Checkup,K21.9,Not Met
+P007,Dr. Brown,PT00801,70,F,2025-07-07,Follow-Up,E78.5,Met
+P004,Dr. Johnson,PT01436,81,Other,2024-02-14,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT00111,44,Other,2024-03-11,Annual Checkup,J45.909,Not Met
+P008,Dr. Davis,PT01426,50,M,2024-02-06,Annual Checkup,J45.909,Met
+P004,Dr. Johnson,PT01506,72,Other,2024-11-24,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00772,46,M,2024-01-25,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00729,66,M,2024-01-08,Annual Checkup,E11.9,Met
+P009,Dr. Garcia,PT01332,51,M,2024-01-12,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00502,60,F,2024-01-20,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00354,34,Other,2025-02-17,Follow-Up,I10,Not Met
+P007,Dr. Brown,PT00564,56,Other,2024-02-03,Follow-Up,F41.9,Met
+P002,Dr. Lee,PT00170,1,F,2024-03-17,Annual Checkup,G43.909,Met
+P010,Dr. Wilson,PT01174,76,Other,2024-06-17,Annual Checkup,I10,Not Met
+P003,Dr. Patel,PT00787,68,M,2024-04-13,Telehealth,N39.0,Met
+P003,Dr. Patel,PT00204,37,M,2024-03-02,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00807,86,Other,2024-09-16,ER,G43.909,Met
+P009,Dr. Garcia,PT01198,75,Other,2024-02-08,Follow-Up,I10,Not Met
+P004,Dr. Johnson,PT01349,35,F,2024-01-26,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT01137,45,M,2024-03-08,ER,I10,Met
+P010,Dr. Wilson,PT00423,35,Other,2024-08-01,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00174,61,F,2024-03-31,Follow-Up,F41.9,Not Met
+P003,Dr. Patel,PT00867,44,Other,2024-02-10,Annual Checkup,E78.5,Met
+P009,Dr. Garcia,PT00601,20,Other,2024-04-18,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT01071,53,M,2024-03-09,Follow-Up,G43.909,Met
+P002,Dr. Lee,PT01358,71,F,2024-02-20,Annual Checkup,M54.5,Met
+P004,Dr. Johnson,PT00275,56,Other,2024-06-07,Follow-Up,Z00.00,Met
+P003,Dr. Patel,PT01494,64,Other,2024-07-25,Annual Checkup,G43.909,Met
+P007,Dr. Brown,PT01331,58,F,2024-04-10,Annual Checkup,I10,Not Met
+P007,Dr. Brown,PT01423,68,F,2024-03-02,Follow-Up,I10,Not Met
+P005,Dr. Nguyen,PT01297,60,Other,2024-02-17,Follow-Up,F41.9,Met
+P009,Dr. Garcia,PT01239,52,F,2024-04-13,Annual Checkup,J45.909,Met
+P007,Dr. Brown,PT00777,56,F,2024-03-15,Telehealth,M54.5,Met
+P002,Dr. Lee,PT01089,82,F,2024-01-04,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00744,65,M,2024-05-09,Follow-Up,J45.909,Not Met
+P004,Dr. Johnson,PT00561,37,F,2024-01-23,Annual Checkup,M54.5,Met
+P002,Dr. Lee,PT00253,56,F,2024-04-10,Follow-Up,E78.5,Met
+P008,Dr. Davis,PT00196,61,Other,2024-07-23,Annual Checkup,Z00.00,Not Met
+P009,Dr. Garcia,PT00556,52,Other,2025-05-08,Annual Checkup,E11.9,Met
+P007,Dr. Brown,PT00371,20,M,2024-01-07,ER,G43.909,Not Met
+P007,Dr. Brown,PT00977,39,Other,2024-01-07,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT01347,47,F,2024-01-31,Annual Checkup,Z00.00,Not Met
+P001,Dr. Smith,PT01486,88,Other,2024-04-24,Telehealth,M54.5,Not Met
+P007,Dr. Brown,PT01448,63,M,2024-02-23,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT00588,27,M,2024-07-27,Telehealth,G43.909,Not Met
+P004,Dr. Johnson,PT00626,53,Other,2024-02-21,ER,E78.5,Met
+P006,Dr. Martinez,PT00185,78,Other,2024-02-24,Annual Checkup,M54.5,Not Met
+P003,Dr. Patel,PT01179,44,F,2024-01-29,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT00022,73,M,2024-01-11,Follow-Up,J45.909,Met
+P009,Dr. Garcia,PT01404,27,Other,2024-08-08,ER,I10,Met
+P010,Dr. Wilson,PT00390,4,Other,2024-01-31,Annual Checkup,N39.0,Not Met
+P006,Dr. Martinez,PT00501,76,Other,2024-07-27,Follow-Up,G43.909,Not Met
+P001,Dr. Smith,PT01244,46,M,2024-02-28,Telehealth,G43.909,Not Met
+P003,Dr. Patel,PT00154,21,M,2024-11-19,ER,G43.909,Met
+P001,Dr. Smith,PT00866,48,M,2024-01-16,Annual Checkup,F41.9,Not Met
+P006,Dr. Martinez,PT01391,58,F,2024-04-01,ER,I10,Met
+P008,Dr. Davis,PT00602,63,M,2024-01-04,Annual Checkup,Z00.00,Met
+P005,Dr. Nguyen,PT01317,10,Other,2024-01-22,ER,E11.9,Not Met
+P010,Dr. Wilson,PT01000,43,F,2024-05-08,Annual Checkup,Z00.00,Met
+P005,Dr. Nguyen,PT00725,56,F,2024-05-30,Annual Checkup,J45.909,Met
+P001,Dr. Smith,PT00208,63,M,2024-01-09,Annual Checkup,I10,Met
+P003,Dr. Patel,PT00842,37,F,2024-04-23,ER,E11.9,Met
+P005,Dr. Nguyen,PT00464,51,M,2024-11-30,Annual Checkup,E78.5,Met
+P003,Dr. Patel,PT01099,44,M,2024-02-22,Annual Checkup,K21.9,Met
+P008,Dr. Davis,PT00332,59,F,2024-04-05,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT00227,75,F,2024-07-21,Annual Checkup,J45.909,Met
+P006,Dr. Martinez,PT00065,48,F,2024-04-23,Follow-Up,K21.9,Not Met
+P005,Dr. Nguyen,PT00244,30,M,2024-01-14,Annual Checkup,K21.9,Not Met
+P003,Dr. Patel,PT00666,42,M,2024-02-22,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00044,86,F,2024-05-08,Annual Checkup,G43.909,Met
+P004,Dr. Johnson,PT00107,39,Other,2024-01-09,ER,N39.0,Not Met
+P001,Dr. Smith,PT00890,33,M,2024-01-21,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00508,47,Other,2024-07-29,Annual Checkup,G43.909,Met
+P005,Dr. Nguyen,PT01571,53,F,2024-01-23,ER,M54.5,Met
+P007,Dr. Brown,PT00407,45,M,2024-09-10,Follow-Up,I10,Not Met
+P009,Dr. Garcia,PT01252,27,F,2024-03-24,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00470,60,F,2024-06-06,Annual Checkup,E11.9,Met
+P004,Dr. Johnson,PT00300,59,M,2024-04-29,Annual Checkup,M54.5,Met
+P001,Dr. Smith,PT00779,67,M,2024-03-02,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT00982,58,F,2024-05-15,Follow-Up,E11.9,Met
+P005,Dr. Nguyen,PT00745,84,M,2024-03-08,ER,N39.0,Met
+P001,Dr. Smith,PT00373,68,F,2024-01-20,Annual Checkup,F41.9,Met
+P008,Dr. Davis,PT00574,64,Other,2024-08-02,Annual Checkup,J45.909,Met
+P008,Dr. Davis,PT00745,76,M,2024-03-08,Annual Checkup,I10,Not Met
+P009,Dr. Garcia,PT01578,57,F,2024-02-27,Annual Checkup,F41.9,Not Met
+P010,Dr. Wilson,PT01084,51,Other,2024-08-11,Annual Checkup,E78.5,Met
+P007,Dr. Brown,PT00179,60,F,2024-03-20,Annual Checkup,Z00.00,Met
+P010,Dr. Wilson,PT01341,19,F,2024-04-12,Annual Checkup,K21.9,Not Met
+P002,Dr. Lee,PT01120,57,Other,2024-02-17,Annual Checkup,K21.9,Not Met
+P004,Dr. Johnson,PT01093,53,Other,2024-06-05,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT01458,62,M,2024-02-20,ER,G43.909,Not Met
+P006,Dr. Martinez,PT00919,73,Other,2024-12-17,Follow-Up,N39.0,Met
+P007,Dr. Brown,PT01073,65,Other,2024-03-02,Follow-Up,J45.909,Not Met
+P003,Dr. Patel,PT00594,42,F,2025-07-10,Telehealth,E11.9,Not Met
+P004,Dr. Johnson,PT01517,70,M,2024-01-04,Annual Checkup,G43.909,Not Met
+P002,Dr. Lee,PT00339,84,M,2024-05-19,Follow-Up,N39.0,Met
+P007,Dr. Brown,PT00821,74,Other,2024-01-16,Annual Checkup,J45.909,Met
+P010,Dr. Wilson,PT00447,31,Other,2024-02-14,Follow-Up,G43.909,Met
+P009,Dr. Garcia,PT00531,65,M,2024-04-04,ER,E78.5,Not Met
+P009,Dr. Garcia,PT00244,34,F,2024-01-23,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT01310,49,F,2024-03-05,ER,E78.5,Not Met
+P005,Dr. Nguyen,PT00106,62,Other,2024-01-11,Telehealth,M54.5,Met
+P001,Dr. Smith,PT01329,59,M,2024-02-29,Follow-Up,F41.9,Met
+P009,Dr. Garcia,PT00541,73,Other,2024-01-22,Annual Checkup,Z00.00,Met
+P001,Dr. Smith,PT01282,84,F,2024-02-01,ER,M54.5,Not Met
+P005,Dr. Nguyen,PT00362,63,M,2024-11-09,Telehealth,G43.909,Met
+P010,Dr. Wilson,PT00218,48,Other,2024-03-06,Follow-Up,N39.0,Not Met
+P005,Dr. Nguyen,PT01283,20,Other,2024-01-04,Follow-Up,M54.5,Not Met
+P004,Dr. Johnson,PT00665,78,M,2024-04-15,Annual Checkup,N39.0,Met
+P004,Dr. Johnson,PT01495,53,Other,2024-04-16,Annual Checkup,J45.909,Not Met
+P002,Dr. Lee,PT01016,54,F,2024-03-01,Annual Checkup,J45.909,Met
+P008,Dr. Davis,PT01494,55,F,2024-02-08,Follow-Up,E11.9,Met
+P003,Dr. Patel,PT00808,62,Other,2024-05-28,Follow-Up,I10,Met
+P007,Dr. Brown,PT00503,63,M,2024-02-26,ER,N39.0,Met
+P009,Dr. Garcia,PT00282,50,Other,2024-04-05,Follow-Up,E11.9,Met
+P007,Dr. Brown,PT00787,53,F,2024-08-02,Annual Checkup,E11.9,Not Met
+P001,Dr. Smith,PT00271,44,F,2024-07-15,Follow-Up,E78.5,Met
+P010,Dr. Wilson,PT00028,42,F,2024-07-22,Telehealth,I10,Met
+P006,Dr. Martinez,PT01449,42,F,2024-11-15,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT00335,53,M,2024-02-19,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT01418,38,M,2024-09-02,Follow-Up,I10,Met
+P001,Dr. Smith,PT00211,2,Other,2024-02-18,Annual Checkup,G43.909,Not Met
+P007,Dr. Brown,PT00291,48,F,2024-03-01,ER,E11.9,Met
+P007,Dr. Brown,PT00302,32,M,2024-04-11,Follow-Up,M54.5,Not Met
+P007,Dr. Brown,PT01407,56,Other,2024-07-15,ER,I10,Met
+P002,Dr. Lee,PT00460,44,F,2024-01-20,Telehealth,E78.5,Met
+P010,Dr. Wilson,PT00684,63,F,2024-02-07,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT00310,34,F,2024-05-16,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00308,23,Other,2024-01-08,Follow-Up,Z00.00,Not Met
+P006,Dr. Martinez,PT00213,53,M,2024-05-23,ER,F41.9,Not Met
+P002,Dr. Lee,PT00005,47,F,2024-01-26,Follow-Up,J45.909,Met
+P007,Dr. Brown,PT00915,31,Other,2024-09-17,Follow-Up,K21.9,Not Met
+P002,Dr. Lee,PT01184,68,M,2024-09-28,Telehealth,E78.5,Met
+P006,Dr. Martinez,PT00262,36,F,2024-03-04,Follow-Up,F41.9,Met
+P007,Dr. Brown,PT00986,41,Other,2024-02-03,Telehealth,Z00.00,Not Met
+P006,Dr. Martinez,PT00284,72,Other,2024-05-14,ER,N39.0,Met
+P008,Dr. Davis,PT01104,64,Other,2024-07-27,Annual Checkup,G43.909,Not Met
+P007,Dr. Brown,PT00172,35,Other,2024-06-09,Follow-Up,G43.909,Not Met
+P004,Dr. Johnson,PT01440,49,F,2024-02-23,Annual Checkup,E11.9,Met
+P001,Dr. Smith,PT00743,33,Other,2024-01-11,Annual Checkup,J45.909,Not Met
+P001,Dr. Smith,PT00716,71,M,2025-08-11,ER,J45.909,Met
+P003,Dr. Patel,PT01130,71,M,2024-08-29,Annual Checkup,M54.5,Met
+P003,Dr. Patel,PT00241,87,Other,2024-02-11,Follow-Up,N39.0,Not Met
+P007,Dr. Brown,PT00762,95,F,2024-03-04,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT00324,43,F,2024-03-07,Annual Checkup,J45.909,Met
+P002,Dr. Lee,PT00026,67,Other,2024-08-16,ER,N39.0,Met
+P003,Dr. Patel,PT00963,21,Other,2024-01-28,Annual Checkup,G43.909,Met
+P005,Dr. Nguyen,PT00963,58,M,2024-07-26,Follow-Up,K21.9,Not Met
+P001,Dr. Smith,PT00588,62,F,2024-04-07,Annual Checkup,E11.9,Not Met
+P003,Dr. Patel,PT01031,37,F,2024-06-22,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT01135,42,Other,2024-02-05,ER,Z00.00,Met
+P004,Dr. Johnson,PT00868,71,F,2024-02-17,Annual Checkup,I10,Met
+P003,Dr. Patel,PT01522,63,F,2024-05-15,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT01528,85,Other,2024-05-17,Follow-Up,I10,Not Met
+P008,Dr. Davis,PT00978,82,M,2024-04-12,Follow-Up,N39.0,Not Met
+P003,Dr. Patel,PT00112,25,M,2024-06-24,Follow-Up,M54.5,Met
+P002,Dr. Lee,PT00160,45,M,2024-01-31,Follow-Up,F41.9,Met
+P005,Dr. Nguyen,PT00334,36,Other,2024-04-27,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT00385,68,Other,2024-06-13,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01168,60,Other,2024-08-15,Annual Checkup,K21.9,Met
+P006,Dr. Martinez,PT00191,37,M,2024-01-06,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01025,39,F,2024-03-19,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT01440,77,Other,2024-11-13,Annual Checkup,N39.0,Not Met
+P009,Dr. Garcia,PT00207,47,Other,2024-01-02,ER,J45.909,Met
+P007,Dr. Brown,PT00977,18,Other,2024-01-11,ER,E11.9,Met
+P003,Dr. Patel,PT01398,35,M,2024-04-05,Annual Checkup,I10,Not Met
+P004,Dr. Johnson,PT00442,89,Other,2024-01-24,Follow-Up,J45.909,Not Met
+P009,Dr. Garcia,PT01058,73,Other,2025-02-07,Follow-Up,G43.909,Not Met
+P006,Dr. Martinez,PT00917,32,F,2024-01-07,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00082,58,Other,2024-04-09,Follow-Up,N39.0,Met
+P010,Dr. Wilson,PT01243,71,F,2024-03-24,Telehealth,Z00.00,Not Met
+P008,Dr. Davis,PT00200,24,F,2024-10-26,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT01022,74,F,2024-03-03,Annual Checkup,J45.909,Not Met
+P003,Dr. Patel,PT00140,62,M,2024-02-11,Follow-Up,F41.9,Met
+P003,Dr. Patel,PT01456,41,M,2024-03-30,Annual Checkup,K21.9,Not Met
+P008,Dr. Davis,PT01332,65,F,2024-07-07,ER,Z00.00,Met
+P006,Dr. Martinez,PT00588,60,M,2024-05-15,Annual Checkup,Z00.00,Not Met
+P003,Dr. Patel,PT00903,61,M,2024-02-12,Follow-Up,Z00.00,Not Met
+P006,Dr. Martinez,PT00171,57,Other,2024-01-01,Annual Checkup,K21.9,Met
+P001,Dr. Smith,PT01272,39,Other,2024-05-10,Annual Checkup,M54.5,Not Met
+P009,Dr. Garcia,PT00017,42,F,2024-04-30,ER,E78.5,Met
+P010,Dr. Wilson,PT00818,50,F,2024-06-05,Annual Checkup,K21.9,Not Met
+P006,Dr. Martinez,PT00955,55,M,2024-02-16,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT01499,66,F,2024-02-20,ER,N39.0,Not Met
+P004,Dr. Johnson,PT00823,89,M,2024-01-18,Annual Checkup,F41.9,Not Met
+P008,Dr. Davis,PT00436,59,Other,2024-01-14,Follow-Up,I10,Met
+P001,Dr. Smith,PT01117,66,F,2024-03-02,ER,J45.909,Not Met
+P006,Dr. Martinez,PT01164,70,F,2024-01-16,Telehealth,N39.0,Met
+P006,Dr. Martinez,PT00881,67,M,2024-01-01,Annual Checkup,M54.5,Not Met
+P007,Dr. Brown,PT00553,38,M,2024-02-05,Follow-Up,I10,Met
+P005,Dr. Nguyen,PT00830,79,F,2024-01-02,Annual Checkup,K21.9,Not Met
+P009,Dr. Garcia,PT00439,76,Other,2025-01-14,ER,J45.909,Not Met
+P002,Dr. Lee,PT00878,57,M,2024-04-10,Telehealth,E78.5,Met
+P006,Dr. Martinez,PT00859,39,M,2024-04-05,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00727,55,Other,2024-02-27,Follow-Up,E11.9,Not Met
+P010,Dr. Wilson,PT00407,26,F,2024-02-02,Follow-Up,Z00.00,Not Met
+P006,Dr. Martinez,PT01361,82,Other,2024-01-12,Follow-Up,F41.9,Met
+P008,Dr. Davis,PT00303,43,M,2024-01-24,ER,I10,Not Met
+P007,Dr. Brown,PT00539,49,Other,2025-06-08,Follow-Up,K21.9,Not Met
+P003,Dr. Patel,PT01300,80,M,2024-09-05,Follow-Up,Z00.00,Met
+P004,Dr. Johnson,PT01528,10,F,2025-10-12,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT00774,77,F,2024-02-17,Annual Checkup,M54.5,Not Met
+P010,Dr. Wilson,PT00030,61,M,2024-02-13,ER,E11.9,Met
+P005,Dr. Nguyen,PT01029,85,F,2024-05-17,Follow-Up,K21.9,Met
+P006,Dr. Martinez,PT00722,37,Other,2024-02-15,Annual Checkup,F41.9,Met
+P003,Dr. Patel,PT00940,61,M,2024-01-17,Annual Checkup,G43.909,Met
+P009,Dr. Garcia,PT00893,38,M,2024-04-13,Annual Checkup,N39.0,Met
+P010,Dr. Wilson,PT00204,74,F,2024-06-17,ER,I10,Met
+P001,Dr. Smith,PT01263,74,M,2024-09-04,Annual Checkup,Z00.00,Not Met
+P002,Dr. Lee,PT01298,86,M,2024-04-25,Follow-Up,E11.9,Met
+P007,Dr. Brown,PT00434,54,F,2024-01-25,Follow-Up,G43.909,Met
+P004,Dr. Johnson,PT00962,92,F,2024-08-15,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00016,36,M,2024-01-27,Follow-Up,G43.909,Met
+P005,Dr. Nguyen,PT00630,54,M,2024-04-15,Follow-Up,E11.9,Not Met
+P007,Dr. Brown,PT00067,37,F,2024-04-03,Annual Checkup,F41.9,Not Met
+P009,Dr. Garcia,PT01519,58,Other,2024-04-04,Annual Checkup,J45.909,Not Met
+P007,Dr. Brown,PT00496,38,Other,2024-02-01,Telehealth,M54.5,Not Met
+P007,Dr. Brown,PT00106,74,Other,2024-01-06,Annual Checkup,N39.0,Not Met
+P003,Dr. Patel,PT00826,63,M,2024-03-23,Follow-Up,N39.0,Met
+P003,Dr. Patel,PT01033,35,F,2024-02-14,Follow-Up,N39.0,Not Met
+P005,Dr. Nguyen,PT01133,70,F,2024-04-24,ER,M54.5,Met
+P001,Dr. Smith,PT00896,83,F,2024-02-24,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT01450,65,Other,2024-05-02,ER,I10,Not Met
+P001,Dr. Smith,PT01521,30,Other,2024-05-25,Annual Checkup,K21.9,Not Met
+P006,Dr. Martinez,PT00383,52,F,2024-04-07,Follow-Up,M54.5,Met
+P009,Dr. Garcia,PT00503,67,Other,2024-01-03,Follow-Up,N39.0,Not Met
+P001,Dr. Smith,PT00564,50,F,2024-02-15,ER,E11.9,Not Met
+P010,Dr. Wilson,PT00212,36,F,2024-05-15,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00579,77,M,2024-03-01,ER,I10,Met
+P006,Dr. Martinez,PT00426,49,M,2024-03-04,Annual Checkup,E11.9,Met
+P008,Dr. Davis,PT01282,83,F,2024-11-23,Annual Checkup,N39.0,Met
+P006,Dr. Martinez,PT01298,45,M,2024-04-15,ER,J45.909,Met
+P003,Dr. Patel,PT01351,48,Other,2025-02-22,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT00711,44,M,2024-02-19,Telehealth,Z00.00,Met
+P003,Dr. Patel,PT01069,52,Other,2024-03-25,Annual Checkup,I10,Met
+P001,Dr. Smith,PT01098,63,F,2026-01-01,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT00236,37,F,2024-03-13,Annual Checkup,J45.909,Met
+P003,Dr. Patel,PT00549,34,M,2024-01-15,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT01336,24,M,2024-09-14,Annual Checkup,K21.9,Met
+P007,Dr. Brown,PT00396,22,M,2024-05-09,Annual Checkup,E78.5,Not Met
+P002,Dr. Lee,PT01196,30,Other,2024-03-11,Annual Checkup,M54.5,Not Met
+P008,Dr. Davis,PT00888,45,M,2024-07-20,Annual Checkup,E78.5,Not Met
+P010,Dr. Wilson,PT00221,58,Other,2024-12-04,Annual Checkup,M54.5,Not Met
+P006,Dr. Martinez,PT01296,62,F,2024-01-20,Annual Checkup,E11.9,Not Met
+P005,Dr. Nguyen,PT01202,57,M,2024-03-18,Annual Checkup,G43.909,Met
+P001,Dr. Smith,PT00235,81,F,2024-03-02,ER,N39.0,Not Met
+P006,Dr. Martinez,PT00503,87,F,2024-02-19,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT00251,49,F,2024-01-22,Annual Checkup,E11.9,Not Met
+P004,Dr. Johnson,PT00954,37,Other,2024-06-08,Follow-Up,M54.5,Not Met
+P007,Dr. Brown,PT00581,93,Other,2024-09-03,Annual Checkup,M54.5,Met
+P005,Dr. Nguyen,PT01467,76,Other,2024-04-13,ER,I10,Met
+P007,Dr. Brown,PT01398,74,M,2024-04-03,Annual Checkup,F41.9,Met
+P001,Dr. Smith,PT01012,44,M,2024-01-10,Annual Checkup,E78.5,Met
+P002,Dr. Lee,PT00928,70,F,2024-03-01,Follow-Up,Z00.00,Met
+P010,Dr. Wilson,PT00044,57,M,2024-02-12,Annual Checkup,Z00.00,Not Met
+P008,Dr. Davis,PT00583,53,F,2024-03-09,ER,N39.0,Met
+P009,Dr. Garcia,PT01081,53,F,2024-04-18,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT00851,64,Other,2024-07-30,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT00164,81,Other,2024-01-11,Follow-Up,K21.9,Not Met
+P007,Dr. Brown,PT00612,95,Other,2024-07-30,Telehealth,K21.9,Not Met
+P002,Dr. Lee,PT00766,47,Other,2024-07-02,Annual Checkup,M54.5,Met
+P001,Dr. Smith,PT00285,58,F,2024-01-16,Telehealth,N39.0,Met
+P002,Dr. Lee,PT00392,53,Other,2024-09-06,ER,F41.9,Not Met
+P009,Dr. Garcia,PT00011,62,Other,2024-04-14,ER,E78.5,Not Met
+P001,Dr. Smith,PT00227,9,F,2024-11-25,ER,I10,Met
+P010,Dr. Wilson,PT00778,50,M,2024-07-18,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00259,91,M,2024-12-26,ER,Z00.00,Not Met
+P007,Dr. Brown,PT01305,42,M,2024-03-10,Follow-Up,G43.909,Met
+P010,Dr. Wilson,PT00979,47,Other,2024-05-03,Annual Checkup,E78.5,Met
+P008,Dr. Davis,PT00463,45,F,2024-04-19,Annual Checkup,E78.5,Not Met
+P006,Dr. Martinez,PT01144,52,F,2024-10-06,Follow-Up,M54.5,Not Met
+P002,Dr. Lee,PT01013,31,F,2024-03-11,Annual Checkup,M54.5,Met
+P007,Dr. Brown,PT00385,45,M,2024-01-06,Annual Checkup,M54.5,Not Met
+P009,Dr. Garcia,PT01053,62,M,2024-04-16,Follow-Up,E78.5,Not Met
+P003,Dr. Patel,PT01034,62,F,2024-02-22,ER,M54.5,Not Met
+P007,Dr. Brown,PT00927,59,Other,2024-07-28,Follow-Up,N39.0,Met
+P005,Dr. Nguyen,PT00867,79,F,2024-04-29,Follow-Up,Z00.00,Met
+P003,Dr. Patel,PT00945,63,F,2024-03-05,Follow-Up,M54.5,Met
+P008,Dr. Davis,PT00384,79,M,2025-01-15,Annual Checkup,G43.909,Met
+P005,Dr. Nguyen,PT00243,95,Other,2024-01-30,Annual Checkup,N39.0,Met
+P007,Dr. Brown,PT01029,71,M,2024-04-27,Follow-Up,E11.9,Met
+P006,Dr. Martinez,PT00201,31,F,2024-01-08,Follow-Up,N39.0,Met
+P004,Dr. Johnson,PT00825,60,F,2024-04-21,Follow-Up,G43.909,Not Met
+P009,Dr. Garcia,PT00888,57,F,2024-01-31,Follow-Up,M54.5,Not Met
+P004,Dr. Johnson,PT00236,83,F,2024-05-11,ER,Z00.00,Met
+P002,Dr. Lee,PT01090,52,F,2024-01-22,Annual Checkup,Z00.00,Met
+P007,Dr. Brown,PT00803,40,M,2024-01-25,Annual Checkup,E78.5,Met
+P003,Dr. Patel,PT00417,46,M,2024-01-07,Follow-Up,Z00.00,Met
+P001,Dr. Smith,PT00194,32,F,2024-03-01,Follow-Up,Z00.00,Met
+P005,Dr. Nguyen,PT01409,2,F,2024-02-27,Annual Checkup,I10,Met
+P006,Dr. Martinez,PT00933,91,F,2024-08-07,Telehealth,K21.9,Met
+P001,Dr. Smith,PT00364,55,M,2024-01-08,ER,J45.909,Not Met
+P001,Dr. Smith,PT01217,33,M,2024-01-09,Telehealth,Z00.00,Met
+P004,Dr. Johnson,PT00968,85,F,2024-09-09,Annual Checkup,E11.9,Not Met
+P005,Dr. Nguyen,PT00468,89,Other,2024-04-07,Follow-Up,J45.909,Not Met
+P002,Dr. Lee,PT00624,58,Other,2024-05-04,Annual Checkup,K21.9,Not Met
+P009,Dr. Garcia,PT00528,30,Other,2024-01-06,Annual Checkup,F41.9,Met
+P006,Dr. Martinez,PT00617,46,Other,2024-01-23,Annual Checkup,G43.909,Not Met
+P010,Dr. Wilson,PT00992,51,F,2024-01-17,Annual Checkup,G43.909,Not Met
+P001,Dr. Smith,PT00303,55,M,2024-02-03,ER,J45.909,Met
+P001,Dr. Smith,PT00501,35,Other,2024-02-23,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00397,72,M,2024-01-10,Follow-Up,E78.5,Not Met
+P009,Dr. Garcia,PT00921,17,Other,2024-01-01,Annual Checkup,F41.9,Not Met
+P007,Dr. Brown,PT01207,75,M,2024-03-04,ER,E78.5,Met
+P001,Dr. Smith,PT01187,79,Other,2024-03-21,Follow-Up,Z00.00,Met
+P008,Dr. Davis,PT01161,48,M,2024-02-19,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT00956,53,Other,2024-01-24,Annual Checkup,E78.5,Met
+P003,Dr. Patel,PT00622,82,M,2024-02-15,Annual Checkup,E78.5,Met
+P001,Dr. Smith,PT00446,66,M,2024-02-29,ER,I10,Met
+P005,Dr. Nguyen,PT00011,49,M,2024-01-24,Annual Checkup,E11.9,Met
+P003,Dr. Patel,PT00718,51,M,2024-07-10,Follow-Up,G43.909,Met
+P009,Dr. Garcia,PT00318,64,F,2024-03-18,Follow-Up,J45.909,Not Met
+P004,Dr. Johnson,PT00885,89,Other,2024-11-02,ER,E78.5,Met
+P008,Dr. Davis,PT00727,51,F,2024-02-21,ER,N39.0,Met
+P002,Dr. Lee,PT00536,48,M,2024-07-02,Follow-Up,J45.909,Met
+P006,Dr. Martinez,PT01185,55,F,2024-01-31,Follow-Up,M54.5,Met
+P007,Dr. Brown,PT01136,55,F,2024-03-02,Annual Checkup,I10,Met
+P008,Dr. Davis,PT01118,60,F,2024-01-24,Annual Checkup,N39.0,Met
+P009,Dr. Garcia,PT00906,53,Other,2024-07-11,Annual Checkup,F41.9,Met
+P007,Dr. Brown,PT00956,76,M,2024-03-06,Telehealth,K21.9,Met
+P009,Dr. Garcia,PT00055,39,M,2024-04-13,Annual Checkup,J45.909,Met
+P005,Dr. Nguyen,PT00497,62,Other,2024-08-29,Follow-Up,J45.909,Met
+P010,Dr. Wilson,PT00601,63,F,2024-01-08,Follow-Up,N39.0,Met
+P001,Dr. Smith,PT00948,40,Other,2024-03-05,Annual Checkup,E11.9,Met
+P005,Dr. Nguyen,PT01331,62,F,2024-04-05,Annual Checkup,I10,Not Met
+P010,Dr. Wilson,PT00987,64,Other,2025-11-10,Annual Checkup,E11.9,Met
+P010,Dr. Wilson,PT01382,10,Other,2024-01-18,Follow-Up,E11.9,Not Met
+P009,Dr. Garcia,PT00296,37,Other,2024-01-18,Follow-Up,K21.9,Met
+P003,Dr. Patel,PT00617,84,Other,2024-01-21,Annual Checkup,E11.9,Not Met
+P010,Dr. Wilson,PT01409,44,F,2024-05-12,Annual Checkup,E11.9,Met
+P002,Dr. Lee,PT01065,33,F,2024-03-20,Annual Checkup,I10,Met
+P009,Dr. Garcia,PT00909,22,M,2024-04-18,Annual Checkup,I10,Met
+P008,Dr. Davis,PT00377,36,F,2024-04-12,ER,G43.909,Met
+P010,Dr. Wilson,PT01396,53,M,2024-04-06,ER,Z00.00,Met
+P003,Dr. Patel,PT01303,32,F,2024-04-11,Annual Checkup,M54.5,Met
+P009,Dr. Garcia,PT00411,67,M,2024-01-04,Annual Checkup,E78.5,Met
+P010,Dr. Wilson,PT01010,40,M,2024-02-22,Follow-Up,N39.0,Met
+P002,Dr. Lee,PT00951,60,M,2024-02-06,ER,J45.909,Met
+P008,Dr. Davis,PT00247,81,Other,2024-05-22,Annual Checkup,Z00.00,Met
+P010,Dr. Wilson,PT00911,79,F,2024-06-08,ER,F41.9,Not Met
+P008,Dr. Davis,PT01481,60,M,2024-04-23,Annual Checkup,J45.909,Met
+P009,Dr. Garcia,PT00432,34,M,2024-02-06,ER,G43.909,Met
+P002,Dr. Lee,PT00358,54,Other,2024-03-06,Annual Checkup,Z00.00,Met
+P003,Dr. Patel,PT00571,61,Other,2024-02-10,Annual Checkup,N39.0,Met
+P008,Dr. Davis,PT00772,95,M,2024-01-01,Follow-Up,J45.909,Not Met
