@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Primary Care Performance Analysis
 
 This is a compact, mock healthcare analytics project designed to demonstrate foundational data analysis skills relevant to an ACO or MSO setting.
@@ -28,3 +29,6 @@ This is a compact, mock healthcare analytics project designed to demonstrate fou
 - `requirements.txt`
 
 **Skills demonstrated**: Python (Pandas), data aggregation, KPI calculation, matplotlib visualization, data export for business use.
+=======
+# HealthCare_Data_Mockup
+>>>>>>> 09109f1a36c1ec2cce8cbb3946976e5d847895a2
